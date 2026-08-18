@@ -1,0 +1,48 @@
+name: Update dsh catalog
+
+on:
+  schedule:
+    # daily 03:00 UTC = 11:00 CST; full crawl on Sundays, quick otherwise
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-catalog
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run aggregator
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          MODE=quick
+          if [ "$(date -u +%u)" = "7" ]; then MODE=full; fi
+          echo "mode=$MODE"
+          python3 scripts/aggregate.py --mode "$MODE"
+
+      - name: Commit changes
+        run: |
+          git config user.name "dsh-catalog bot"
+          git config user.email "actions@github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "no changes"
+          else
+            git commit -m "chore: auto-update catalog $(date -u +%Y-%m-%d)"
+            git push
+          fi
