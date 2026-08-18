@@ -1,4 +1,4 @@
-# awesome-dsh-catalog
+# awesome-dsh-plugin
 
 > Automatically aggregated DeepSeek Harness (dsh) plugin directory. Sources: GitHub `topic:dsh-plugin` / `topic:deepseek-harness` / name search. Refreshed daily by GitHub Actions.
 

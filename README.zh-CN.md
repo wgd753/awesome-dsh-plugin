@@ -1,4 +1,4 @@
-# awesome-dsh-catalog
+# awesome-dsh-plugin
 
 > 自动聚合的 DeepSeek Harness (dsh) 插件目录。数据来自 GitHub `topic:dsh-plugin` / `topic:deepseek-harness` 等搜索，每日自动更新。
 
