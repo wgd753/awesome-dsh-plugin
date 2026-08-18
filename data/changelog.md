@@ -1,0 +1,36 @@
+# Changelog — 2026-08-18
+
+- **Added: 112**
+  - 030611/dsh-telemetry-redactor
+  - 1514100951/dsh-usage-footer
+  - 42ch-dev/dsh-rust-sdk
+  - 6-debug-6/dsh-thinking-notifier
+  - 863683348/dsh-plugin-academic-writing
+  - 9Epuuuu/dsh-plugin-folder-tidy
+  - Analyst1981/dsh-plugin-skill-manager
+  - Audrey0976/dsh-desktop-shell
+  - CAOGGL/dsh-ding
+  - Cheng-cheng9669/dsh-cache-precision
+  - Chhlafiu4312/promptwall
+  - CyberryRe/lx_music-for-dsh
+  - DXF1024/dsh-plugin-desktop-shortcut
+  - DfsyJian/dsh-snapshot
+  - Dis2017/dsh-run-guard
+  - FeidaWang/DSH-Plugins-and-Skills
+  - Flora233333/dsh-minimal-vision
+  - FxRayHughes/dsh-coding-companion
+  - Geralt4/dsh-plugin-session-delete
+  - Guojiz/gitlearnos
+  - HOFO-GYG/dsh-quote-reply
+  - Hakunm/dsh-workspace
+  - Huang-zhishi/dsh-plugin-call-trace
+  - LessXi/dsh-fluid-width
+  - ManuSpurs/dsh-skin20260814
+  - Meredith2328/dsh-sidebar-mode
+  - Modole/dsh-plugin-git-laoboshi
+  - Modole/dsh-plugin-workflow-laoboshi
+  - MoneShadow/DeepSeek-Harness-linux-
+  - MorGogh/widget-dock
+  - … and 82 more
+
+- **Removed: 0**
