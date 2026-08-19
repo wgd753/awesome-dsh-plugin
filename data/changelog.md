@@ -1,36 +1,36 @@
-# Changelog — 2026-08-18
+# Changelog — 2026-08-19
 
-- **Added: 35**
-  - Han-1413141/dsh-sticky-disclosure
-  - JAdpp/dsh-whale-galgame
-  - LeslieWylie/dsh-task-relay
-  - MaxWang714/furina-dsh-plugins
-  - STARDUSTLC666/dsh-dingtalk
-  - SheltonLiu-N/nano-cordis
-  - TtTRz/dsh-wecom
-  - YYTbit/oh-my-deepseek-harness
-  - cuboteam/dsh-plugin-dit
-  - cyanseek/dsh-tool-chaos
-  - cyberlieflife/dsh-model-thinking
-  - deCOLE118/dsh-sitemap
-  - dshworks/dsh-watch
-  - dushaobindoudou/dsh-acp
-  - forrestahha/dsh-voice-input
-  - harryopo/dsh-remote-ide
-  - hellosz/dsh-pets
-  - joejojoking-cloud/dsh-approval-popup-bridge
-  - kxSenlin/dsh-whale-font
-  - lhwu1/dsh-lookseek
-  - lilwhich/dsh-plugin-gather
-  - lucasx001/dsh-skin-claude-code
-  - maoruoyu/dsh-plugin-store
-  - niiang/dsh-kimino-theme
-  - nyantused-cpun/folio
-  - reshuibuduo/tmcra-memory
-  - sataycat/dsh-plugin-skills
-  - shanliuling/dsh-image-gen
-  - wgd753/awesome-dsh-plugin
-  - wly8691-jpg/knowlp-rag
-  - … and 5 more
+- **Added: 199**
+  - 02Muller25/dsh-api-balance
+  - 1264459640/dsh-trellis
+  - 189-sketch/dsh-plugins-top
+  - AI-Scarlett/publish-dsh-plugin
+  - Alan2Z/dsh-speak
+  - Altairpaca/dshelm
+  - ArmyWas/dsh-plugin-reducer
+  - Awesome-AI-Pedia/dsh-plugin-desktop
+  - BruceLanLan/dsh-tier-router
+  - CeilCelia/dsh-eli-mode
+  - CiicDong/science-dsh-plugins
+  - CloudFan-cyf/dsh-plugin-control
+  - DjangoAILab/dsh-plugins
+  - FTShare-Lab/dsh_kline
+  - Fatemoisted/ClawDSH
+  - Fengze233/dsh-vscode
+  - GraySilver/dsh-evolve-modes
+  - Guyao146/dsh-activity-tracker
+  - Hongcheng-LI/dsh-zotero
+  - Hubert-hwk/dsh-for-humans
+  - IWAIBAOLI/dsh-with-pencil
+  - InfinitePersistence/dsh-serial-console
+  - Jamsharden/dsh-plugins
+  - Javis603/token-monitor
+  - LBurny/deepseek-harness-desktop
+  - LeeKai233/dsh-plugin-classifier
+  - LeemanCheung/dsh-task-dag
+  - LeemanCheung/dsh-whale-animation
+  - LittleBlackTong/dsh-plugin-heartbeat
+  - LittleBlackTong/dsh-plugin-memory
+  - … and 169 more
 
 - **Removed: 0**
