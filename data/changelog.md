@@ -1,36 +1,36 @@
-# Changelog — 2026-08-19
+# Changelog — 2026-08-20
 
-- **Added: 199**
-  - 02Muller25/dsh-api-balance
-  - 1264459640/dsh-trellis
-  - 189-sketch/dsh-plugins-top
-  - AI-Scarlett/publish-dsh-plugin
-  - Alan2Z/dsh-speak
-  - Altairpaca/dshelm
-  - ArmyWas/dsh-plugin-reducer
-  - Awesome-AI-Pedia/dsh-plugin-desktop
-  - BruceLanLan/dsh-tier-router
-  - CeilCelia/dsh-eli-mode
-  - CiicDong/science-dsh-plugins
-  - CloudFan-cyf/dsh-plugin-control
-  - DjangoAILab/dsh-plugins
-  - FTShare-Lab/dsh_kline
-  - Fatemoisted/ClawDSH
-  - Fengze233/dsh-vscode
-  - GraySilver/dsh-evolve-modes
-  - Guyao146/dsh-activity-tracker
-  - Hongcheng-LI/dsh-zotero
-  - Hubert-hwk/dsh-for-humans
-  - IWAIBAOLI/dsh-with-pencil
-  - InfinitePersistence/dsh-serial-console
-  - Jamsharden/dsh-plugins
-  - Javis603/token-monitor
-  - LBurny/deepseek-harness-desktop
-  - LeeKai233/dsh-plugin-classifier
-  - LeemanCheung/dsh-task-dag
-  - LeemanCheung/dsh-whale-animation
-  - LittleBlackTong/dsh-plugin-heartbeat
-  - LittleBlackTong/dsh-plugin-memory
-  - … and 169 more
+- **Added: 127**
+  - 1847123733/dsh-prompt-optimize
+  - 24601dev/dsh-plugins
+  - 2768651338/dsh-effort-slider
+  - 7dgroup-ai/dsh-skill-7d-code-reviewer
+  - AIFireForAll/dsh-enter-lock
+  - Aa728848/dsh-llm-verifier
+  - AnacondaKC/dsh-douyin
+  - Arborsm/dsh-plugin-devin-bridge
+  - Auxin-zn/dsh-mobile-remote
+  - Ayase34/wallpaper-plugin
+  - CatmaoU/dsh-plugin-compat
+  - CoaseEdge/AgentNavi
+  - EaveBounty/dsh-plugin-graph
+  - ExElectron/dsh-gov-portal
+  - Fisfzy/dsh-ego-browser
+  - ForgeaX-Games/forgeax-dsh-game-plugin
+  - FuzzySoul/dsh-free-vision
+  - GTJasonMK/dsh-plugin
+  - GXX182/dsh-vision-bridge
+  - GoldMinerN/dsh_plugins
+  - ImCabbage/dsh-plugin-mindmap
+  - JR-JR07/dsh-modlens-installer
+  - JasperGuWP/dsh-plugin-market
+  - JasperGuWP/dsh-plugin-schemes
+  - Jiyr0119/dsh-workspace-explorer
+  - KiWi233333/dsh-creator
+  - KimGLee/Cambium
+  - Kitup666/dsh-plugin-kmanager
+  - Likenttt/garmin-connect-plugin-for-dsh
+  - Loping151/dsh-plugin-waves
+  - … and 97 more
 
 - **Removed: 0**
