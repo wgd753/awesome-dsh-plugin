@@ -1,36 +1,36 @@
-# Changelog — 2026-08-20
+# Changelog — 2026-08-21
 
-- **Added: 127**
-  - 1847123733/dsh-prompt-optimize
-  - 24601dev/dsh-plugins
-  - 2768651338/dsh-effort-slider
-  - 7dgroup-ai/dsh-skill-7d-code-reviewer
-  - AIFireForAll/dsh-enter-lock
-  - Aa728848/dsh-llm-verifier
-  - AnacondaKC/dsh-douyin
-  - Arborsm/dsh-plugin-devin-bridge
-  - Auxin-zn/dsh-mobile-remote
-  - Ayase34/wallpaper-plugin
-  - CatmaoU/dsh-plugin-compat
-  - CoaseEdge/AgentNavi
-  - EaveBounty/dsh-plugin-graph
-  - ExElectron/dsh-gov-portal
-  - Fisfzy/dsh-ego-browser
-  - ForgeaX-Games/forgeax-dsh-game-plugin
-  - FuzzySoul/dsh-free-vision
-  - GTJasonMK/dsh-plugin
-  - GXX182/dsh-vision-bridge
-  - GoldMinerN/dsh_plugins
-  - ImCabbage/dsh-plugin-mindmap
-  - JR-JR07/dsh-modlens-installer
-  - JasperGuWP/dsh-plugin-market
-  - JasperGuWP/dsh-plugin-schemes
-  - Jiyr0119/dsh-workspace-explorer
-  - KiWi233333/dsh-creator
-  - KimGLee/Cambium
-  - Kitup666/dsh-plugin-kmanager
-  - Likenttt/garmin-connect-plugin-for-dsh
-  - Loping151/dsh-plugin-waves
-  - … and 97 more
+- **Added: 139**
+  - 117BS/dsh-perlica-ding
+  - 3274375092/dsh-voice
+  - 502399493zjw-lgtm/dsh-plugin-best-practices-skill
+  - 838997125/dsh-plugin-dingtalk
+  - ABAPPLO/dsh_plugins
+  - Aa728848/dsh-chatgpt-subscription
+  - AgentConnect/dsh-awiki
+  - Aik358/dsh-anchored-monitor
+  - Andrew111888/dsh-plugin-balance
+  - Apkawa/dsh-plugins
+  - BotonJ/dsh-remote-link
+  - CHplus0/dsh-shell-command
+  - Chun21/dsh-plugins-backup
+  - Clarklevis1995/dsh-mobile
+  - Clarklevis1995/dsh-plugin-mobile-gateway
+  - DeepTrial/dsh-bash-rtk
+  - DelononLiu/dsh-plugins
+  - DoggyHU/dsh-plugin-quota-monitor
+  - ERVeepp/dsh-plugins
+  - Eligahyu/dsh-sentinel-scanner
+  - Elinpf/dsh-plugin-forge
+  - Entity-Him/dsh-harmonyos-pc
+  - EverMind-AI/SkillCorpus
+  - FeatherHunter/dsh-mattpocock-skills-deck
+  - GDWhisper/dsh-web-startup-auth
+  - HeathHe/dsh-worktree-panel
+  - Hilbert-beinghappy/dsh-plugin-clarify
+  - IT-coder-Yy/dsh-git-plugin
+  - InstruktAI/dsh-plugins
+  - ItBayMax/deepseek-harness-atlas
+  - … and 109 more
 
 - **Removed: 0**
