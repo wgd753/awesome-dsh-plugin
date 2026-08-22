@@ -1,36 +1,36 @@
-# Changelog — 2026-08-21
+# Changelog — 2026-08-22
 
-- **Added: 139**
-  - 117BS/dsh-perlica-ding
-  - 3274375092/dsh-voice
-  - 502399493zjw-lgtm/dsh-plugin-best-practices-skill
-  - 838997125/dsh-plugin-dingtalk
-  - ABAPPLO/dsh_plugins
-  - Aa728848/dsh-chatgpt-subscription
-  - AgentConnect/dsh-awiki
-  - Aik358/dsh-anchored-monitor
-  - Andrew111888/dsh-plugin-balance
-  - Apkawa/dsh-plugins
-  - BotonJ/dsh-remote-link
-  - CHplus0/dsh-shell-command
-  - Chun21/dsh-plugins-backup
-  - Clarklevis1995/dsh-mobile
-  - Clarklevis1995/dsh-plugin-mobile-gateway
-  - DeepTrial/dsh-bash-rtk
-  - DelononLiu/dsh-plugins
-  - DoggyHU/dsh-plugin-quota-monitor
-  - ERVeepp/dsh-plugins
-  - Eligahyu/dsh-sentinel-scanner
-  - Elinpf/dsh-plugin-forge
-  - Entity-Him/dsh-harmonyos-pc
-  - EverMind-AI/SkillCorpus
-  - FeatherHunter/dsh-mattpocock-skills-deck
-  - GDWhisper/dsh-web-startup-auth
-  - HeathHe/dsh-worktree-panel
-  - Hilbert-beinghappy/dsh-plugin-clarify
-  - IT-coder-Yy/dsh-git-plugin
-  - InstruktAI/dsh-plugins
-  - ItBayMax/deepseek-harness-atlas
-  - … and 109 more
+- **Added: 110**
+  - Ayuan1023/dsh-plugin-template
+  - BXY-Create/dsh-plugin-deepseek-console
+  - BlueChonk/dsh-plugin-creator
+  - Chael-Chael/dsh-reference-anything
+  - ChaoMixian/dsh2shell
+  - ChongCyrus/Vibe-Mathematics
+  - Coprexist/AIsChat
+  - EralChen/dsh-plugin-flow
+  - ExElectron/dsh-tool-hongtou
+  - ExploringBB/dsh-plugin-restart-desktop
+  - FSMargoo/dsh-at-file
+  - FeatherHunter/dsh-plugin-ui-debug
+  - FenyxHuang/dsh-desktop-pet
+  - FloatingLifeTL/dsh-plugin-session-manager-custom
+  - Flora233333/deep-rock-galactic-html
+  - Hilbert-beinghappy/dsh-plugin-auxiliary-runtime
+  - JunNanLYS/dsh-layered-memory
+  - KomorebiLabs/Dsh-plugin
+  - Leitarkkk/dsh-research-nudge
+  - Lion-1209/dsh-plugin-wiki-skills
+  - Loopiplusplus/dsh-plugin-toggle-manager
+  - LucienLL/dsh-plugin-proxy
+  - MichengAI/dsh-archive-manager
+  - MichengAI/dsh-codex-desktop
+  - Molunerfinn/PicGo
+  - Mrlilili/dsh-plugin-model-switcher
+  - Pasumao/dsh-plugin-image-tools
+  - PensiveFei/dsh-secure-audit
+  - Poeagle/dsh-plugins
+  - PolinniZhong/dsh-personal-center
+  - … and 80 more
 
 - **Removed: 0**
