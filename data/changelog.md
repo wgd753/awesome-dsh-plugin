@@ -1,36 +1,36 @@
-# Changelog — 2026-08-22
+# Changelog — 2026-08-23
 
-- **Added: 110**
-  - Ayuan1023/dsh-plugin-template
-  - BXY-Create/dsh-plugin-deepseek-console
-  - BlueChonk/dsh-plugin-creator
-  - Chael-Chael/dsh-reference-anything
-  - ChaoMixian/dsh2shell
-  - ChongCyrus/Vibe-Mathematics
-  - Coprexist/AIsChat
-  - EralChen/dsh-plugin-flow
-  - ExElectron/dsh-tool-hongtou
-  - ExploringBB/dsh-plugin-restart-desktop
-  - FSMargoo/dsh-at-file
-  - FeatherHunter/dsh-plugin-ui-debug
-  - FenyxHuang/dsh-desktop-pet
-  - FloatingLifeTL/dsh-plugin-session-manager-custom
-  - Flora233333/deep-rock-galactic-html
-  - Hilbert-beinghappy/dsh-plugin-auxiliary-runtime
-  - JunNanLYS/dsh-layered-memory
-  - KomorebiLabs/Dsh-plugin
-  - Leitarkkk/dsh-research-nudge
-  - Lion-1209/dsh-plugin-wiki-skills
-  - Loopiplusplus/dsh-plugin-toggle-manager
-  - LucienLL/dsh-plugin-proxy
-  - MichengAI/dsh-archive-manager
-  - MichengAI/dsh-codex-desktop
-  - Molunerfinn/PicGo
-  - Mrlilili/dsh-plugin-model-switcher
-  - Pasumao/dsh-plugin-image-tools
-  - PensiveFei/dsh-secure-audit
-  - Poeagle/dsh-plugins
-  - PolinniZhong/dsh-personal-center
-  - … and 80 more
+- **Added: 251**
+  - 1816586742-stack/deepseek-launcher
+  - 283Gawin/dsh-heatmap
+  - 2nd1st/open-mcp-apps
+  - 398894496-arch/runtime36
+  - 534119219/chicheng-stats
+  - 642463401/DSHIDE
+  - 9931666/dsh-plugin-roundtable
+  - AKS1st/dsh-sysmon
+  - ARFCON/dsh-hotplug-hub
+  - ARFCON/dsh-hub-DSH
+  - Ackow/dsh-desktop
+  - Akimiya-z/codex-guard
+  - ArvinQi/dsh-mcp
+  - Awu12277/dsh-sleep-send
+  - B1lli/dsh-plugin-bench
+  - BeforeWave/dsh-with-chatgpt
+  - Breeze136/dsh-kb-rag
+  - BrucePayton/dsh-plugin-graphgpt
+  - Buktal/deepseek-desktop
+  - CH4ACKO3/dsh-turn-fold
+  - CJackHwang/SunamAI
+  - CREAIT-nl/dsh-plugins
+  - CSlawyer1985/dsh-desktop
+  - Ch0uHuaZ1/DeepSeek-Harness-Desktop
+  - ChenSheg/knowledge-from-literature-and-bilibili
+  - Cherryleave23/dsh-plugin-simplemanager
+  - DTSFO/dsh-model-modes
+  - Diluka/dsh-agent-plugin-market
+  - DingZhiQi5596/dsh-plugin-guard
+  - EDMOK/claude-vision-mcp
+  - … and 221 more
 
 - **Removed: 0**
