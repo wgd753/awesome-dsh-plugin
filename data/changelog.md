@@ -1,36 +1,36 @@
-# Changelog — 2026-08-23
+# Changelog — 2026-08-24
 
-- **Added: 251**
-  - 1816586742-stack/deepseek-launcher
-  - 283Gawin/dsh-heatmap
-  - 2nd1st/open-mcp-apps
-  - 398894496-arch/runtime36
-  - 534119219/chicheng-stats
-  - 642463401/DSHIDE
-  - 9931666/dsh-plugin-roundtable
-  - AKS1st/dsh-sysmon
-  - ARFCON/dsh-hotplug-hub
-  - ARFCON/dsh-hub-DSH
-  - Ackow/dsh-desktop
-  - Akimiya-z/codex-guard
-  - ArvinQi/dsh-mcp
-  - Awu12277/dsh-sleep-send
-  - B1lli/dsh-plugin-bench
-  - BeforeWave/dsh-with-chatgpt
-  - Breeze136/dsh-kb-rag
-  - BrucePayton/dsh-plugin-graphgpt
-  - Buktal/deepseek-desktop
-  - CH4ACKO3/dsh-turn-fold
-  - CJackHwang/SunamAI
-  - CREAIT-nl/dsh-plugins
-  - CSlawyer1985/dsh-desktop
-  - Ch0uHuaZ1/DeepSeek-Harness-Desktop
-  - ChenSheg/knowledge-from-literature-and-bilibili
-  - Cherryleave23/dsh-plugin-simplemanager
-  - DTSFO/dsh-model-modes
-  - Diluka/dsh-agent-plugin-market
-  - DingZhiQi5596/dsh-plugin-guard
-  - EDMOK/claude-vision-mcp
-  - … and 221 more
+- **Added: 56**
+  - 0xrushmoon/dsh-plugin
+  - 10086ggqq/dsh_theme_terraria
+  - ABccgh/dsh-plugin-dev
+  - Aisland-SJL/dsh-worktable
+  - Angel2518975237/deepseek-harness-hello-kitty-suite
+  - Dingpenghui-good/dsh-plugin-manager
+  - GanymedeNil/dsh-plugins
+  - Harzva/dsh-plugin-registry
+  - Hjay1101/dsh-plugin-token-usage
+  - HuanLinOTO/dsh-plugin-better-locale
+  - KinomotoMio/dsh-context-lens
+  - Lion-1209/dsh-plugin-wiki-tools
+  - Lzh3070/dsh-file-review-tab
+  - MoonlitZephyr/dsh-plugin-dsh-activity
+  - Nicholas023/vision-exp-tile
+  - Ox0400/dsh-vault
+  - Phant0Meow/dsh-meow-smooth
+  - Prism-Shadow/learn-deepseek-harness
+  - SimonMedy/DSH-Launcher
+  - Tasihi89/dsh-talk-map
+  - Tivility/dsh-plugins
+  - ateen18/dsh-plugin-security-review
+  - casualjim/dsh-plugins
+  - cherrchen/dsh-plugin-git
+  - comeran/dsh-plugin-suite
+  - czx1111/dsh-plugin-manager
+  - daha1216/dsh-adult-tension
+  - dayanhn/dsh-plugins-archive
+  - fuzhengwei/wali-dsh-plugin
+  - fuzhengwei/walioffice-dsh-plugin
+  - … and 26 more
 
 - **Removed: 0**
