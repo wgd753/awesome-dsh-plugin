@@ -1,36 +1,36 @@
-# Changelog — 2026-08-24
+# Changelog — 2026-08-25
 
-- **Added: 56**
-  - 0xrushmoon/dsh-plugin
-  - 10086ggqq/dsh_theme_terraria
-  - ABccgh/dsh-plugin-dev
-  - Aisland-SJL/dsh-worktable
-  - Angel2518975237/deepseek-harness-hello-kitty-suite
-  - Dingpenghui-good/dsh-plugin-manager
-  - GanymedeNil/dsh-plugins
-  - Harzva/dsh-plugin-registry
-  - Hjay1101/dsh-plugin-token-usage
-  - HuanLinOTO/dsh-plugin-better-locale
-  - KinomotoMio/dsh-context-lens
-  - Lion-1209/dsh-plugin-wiki-tools
-  - Lzh3070/dsh-file-review-tab
-  - MoonlitZephyr/dsh-plugin-dsh-activity
-  - Nicholas023/vision-exp-tile
-  - Ox0400/dsh-vault
-  - Phant0Meow/dsh-meow-smooth
-  - Prism-Shadow/learn-deepseek-harness
-  - SimonMedy/DSH-Launcher
-  - Tasihi89/dsh-talk-map
-  - Tivility/dsh-plugins
-  - ateen18/dsh-plugin-security-review
-  - casualjim/dsh-plugins
-  - cherrchen/dsh-plugin-git
-  - comeran/dsh-plugin-suite
-  - czx1111/dsh-plugin-manager
-  - daha1216/dsh-adult-tension
-  - dayanhn/dsh-plugins-archive
-  - fuzhengwei/wali-dsh-plugin
-  - fuzhengwei/walioffice-dsh-plugin
-  - … and 26 more
+- **Added: 93**
+  - 1692775560/dsh-Mimir-Academic-research
+  - 1byteone/dsh-plugin-nlbi
+  - 863683348/dsh-plugin-local-life
+  - ARCJ137442/dsh-plugin-custom-provider-raw-key
+  - AlexZhou19871030/dsh-plugin-eva-unit01
+  - AomeNero/dsh-plugin-aomerag
+  - Chinesezjc/dsh-tool-todo-tree
+  - DrFlyingPig/dsh-plugin-restart
+  - Elohia/dsh-plugin-image-input
+  - FloatingLifeTL/dsh-plugin_session-manager-custom
+  - HarnessRouter/harnessrouter
+  - HiWhaleW/dsh-toolbox
+  - JerryPhoenixCKY/dsh-plugin-wallpaper
+  - JimmyWesley/MonkeyLLM
+  - JingxuanC/causal-memory
+  - KelaoHu/dsh-lowtide
+  - KongFangXun/sofagent
+  - LanceLRQ/llamapad-dsh-plugin
+  - Leshm0321/dsh-plugin-local-agent-bridge
+  - LiZhenNet/dsh-antigravity
+  - Minglink/DeepSeek-Harness-Hub
+  - PetCT/dsh-plugin-marketplace
+  - Rain-kl/dsh-preset-plus
+  - Reach124/Dsh_plugin
+  - Shizuku-keop/dsh-plugin-brainstorm-visualizer
+  - Skylarking/dsh-plugin-codex-pets
+  - SpookySandwich/dsh-plugin-no-workspace
+  - StabCut/dsh-plugin-restart-desktop
+  - StvLi/dsh-ros2
+  - Tencent-TDS/dsh-kuikly-expert
+  - … and 63 more
 
 - **Removed: 0**
