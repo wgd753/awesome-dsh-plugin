@@ -1,36 +1,36 @@
-# Changelog — 2026-08-25
+# Changelog — 2026-08-26
 
-- **Added: 93**
-  - 1692775560/dsh-Mimir-Academic-research
-  - 1byteone/dsh-plugin-nlbi
-  - 863683348/dsh-plugin-local-life
-  - ARCJ137442/dsh-plugin-custom-provider-raw-key
-  - AlexZhou19871030/dsh-plugin-eva-unit01
-  - AomeNero/dsh-plugin-aomerag
-  - Chinesezjc/dsh-tool-todo-tree
-  - DrFlyingPig/dsh-plugin-restart
-  - Elohia/dsh-plugin-image-input
-  - FloatingLifeTL/dsh-plugin_session-manager-custom
-  - HarnessRouter/harnessrouter
-  - HiWhaleW/dsh-toolbox
-  - JerryPhoenixCKY/dsh-plugin-wallpaper
-  - JimmyWesley/MonkeyLLM
-  - JingxuanC/causal-memory
-  - KelaoHu/dsh-lowtide
-  - KongFangXun/sofagent
-  - LanceLRQ/llamapad-dsh-plugin
-  - Leshm0321/dsh-plugin-local-agent-bridge
-  - LiZhenNet/dsh-antigravity
-  - Minglink/DeepSeek-Harness-Hub
-  - PetCT/dsh-plugin-marketplace
-  - Rain-kl/dsh-preset-plus
-  - Reach124/Dsh_plugin
-  - Shizuku-keop/dsh-plugin-brainstorm-visualizer
-  - Skylarking/dsh-plugin-codex-pets
-  - SpookySandwich/dsh-plugin-no-workspace
-  - StabCut/dsh-plugin-restart-desktop
-  - StvLi/dsh-ros2
-  - Tencent-TDS/dsh-kuikly-expert
-  - … and 63 more
+- **Added: 64**
+  - 1123786563/dsh-plugin
+  - AbcdefgXW/dsh-toolbox-web
+  - AgentDebugX/AgentDebugX
+  - Andiii208/dsh-ultramath
+  - Dely0/dsh-personal-workbench
+  - FuRongJun-1999/CommonTrustProtocol
+  - HUITianYi/dsh-whale-desktop-launcher
+  - IceApriler/dsh-remote-mobile
+  - JackyYangxx/dsh-plugins
+  - Jeff1573/dsh-plugin-scheduled-tasks
+  - LivXue/dsh-plugin-store
+  - LoserFox/marisa-distro
+  - Minglink/dsh-infinite-gen-2
+  - NattoCB/dsh-plugin-pin-session
+  - Pasumao/dsh-plugin-choice-refresh
+  - PerryLink/dsh-industry-research
+  - RHY006/agency-agents-zh-dsh-plugin
+  - Rikinshah787/dsh-plugins
+  - SLin-code/dsh-custom-skin
+  - Tonnyzz-awa/BetterDSH
+  - Winter-And-You-Gone/dsh-turn-fold
+  - YJLTF/dsh-plugin-offline-packager
+  - YuanTutu/dsh-plugin-water-tracker
+  - ZSeven-W/dsh-harbor
+  - alpacachen/dsh-kanban
+  - baisama-cloud/dsh-galgame-generator
+  - caoyiwei850/dsh-ssh-ops
+  - chainbase-labs/Agentkey
+  - chaserchan/dsh-plugin-global-prompt
+  - chumingjun/harness-one
+  - … and 34 more
 
 - **Removed: 0**
