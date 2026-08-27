@@ -1,36 +1,36 @@
-# Changelog — 2026-08-26
+# Changelog — 2026-08-27
 
-- **Added: 64**
-  - 1123786563/dsh-plugin
-  - AbcdefgXW/dsh-toolbox-web
-  - AgentDebugX/AgentDebugX
-  - Andiii208/dsh-ultramath
-  - Dely0/dsh-personal-workbench
-  - FuRongJun-1999/CommonTrustProtocol
-  - HUITianYi/dsh-whale-desktop-launcher
-  - IceApriler/dsh-remote-mobile
-  - JackyYangxx/dsh-plugins
-  - Jeff1573/dsh-plugin-scheduled-tasks
-  - LivXue/dsh-plugin-store
-  - LoserFox/marisa-distro
-  - Minglink/dsh-infinite-gen-2
-  - NattoCB/dsh-plugin-pin-session
-  - Pasumao/dsh-plugin-choice-refresh
-  - PerryLink/dsh-industry-research
-  - RHY006/agency-agents-zh-dsh-plugin
-  - Rikinshah787/dsh-plugins
-  - SLin-code/dsh-custom-skin
-  - Tonnyzz-awa/BetterDSH
-  - Winter-And-You-Gone/dsh-turn-fold
-  - YJLTF/dsh-plugin-offline-packager
-  - YuanTutu/dsh-plugin-water-tracker
-  - ZSeven-W/dsh-harbor
-  - alpacachen/dsh-kanban
-  - baisama-cloud/dsh-galgame-generator
-  - caoyiwei850/dsh-ssh-ops
-  - chainbase-labs/Agentkey
-  - chaserchan/dsh-plugin-global-prompt
-  - chumingjun/harness-one
-  - … and 34 more
+- **Added: 66**
+  - 123qiang06/easycad-dsh-plugin
+  - BananaSoldier01/dsh-tidychat
+  - BioBoxS/BioBox_dsh_plugin
+  - ChuanTianML/dsh-chat-tidy
+  - CypherNaught-0x/DSH-Subagent-Model-Router
+  - DIAG5/dsh-better-input
+  - DingTalk-Real-AI/dsh-dingtalk
+  - Elave-66/dsh-blue-sea-launcher
+  - FrankHu-HK/mnemosyne
+  - HaoyueQin/dsh-better-reasoning-effort
+  - Imzl-zl/dsh-mcp-manager-ui
+  - Kirkice/dsh-plugin-makima-tui
+  - LivXue/dsh-plugin-shop
+  - MarvekG/dsh-plugins
+  - MichengAI/dsh-im-connect
+  - MinhQuangQu/dsh-plugin
+  - NekroAI/nekro-nxt
+  - PensiveFei/dsh-voice-scribe
+  - PerryLink/dsh-research-report
+  - PlusQi/dsh-plugins
+  - Prism-Shadow/deepseek-harness-book
+  - QIANLING-0831/dsh-memory-plus
+  - QinpanWan/dsh-harmonyos-pc
+  - RiversJin/dsh-plugins
+  - Tlyer233/dsh-vscode-review
+  - XSakura666/dsh-plugin-ChronoAgent
+  - Yu-tao-Li/dsh-computer-use-win
+  - Yuuhann1999/dsh-bloub-mood
+  - aa2246740/dsh-watcher
+  - acryldev/acryl
+  - … and 36 more
 
 - **Removed: 0**
