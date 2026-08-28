@@ -1,36 +1,36 @@
-# Changelog — 2026-08-27
+# Changelog — 2026-08-28
 
-- **Added: 66**
-  - 123qiang06/easycad-dsh-plugin
-  - BananaSoldier01/dsh-tidychat
-  - BioBoxS/BioBox_dsh_plugin
-  - ChuanTianML/dsh-chat-tidy
-  - CypherNaught-0x/DSH-Subagent-Model-Router
-  - DIAG5/dsh-better-input
-  - DingTalk-Real-AI/dsh-dingtalk
-  - Elave-66/dsh-blue-sea-launcher
-  - FrankHu-HK/mnemosyne
-  - HaoyueQin/dsh-better-reasoning-effort
-  - Imzl-zl/dsh-mcp-manager-ui
-  - Kirkice/dsh-plugin-makima-tui
-  - LivXue/dsh-plugin-shop
-  - MarvekG/dsh-plugins
-  - MichengAI/dsh-im-connect
-  - MinhQuangQu/dsh-plugin
-  - NekroAI/nekro-nxt
-  - PensiveFei/dsh-voice-scribe
-  - PerryLink/dsh-research-report
-  - PlusQi/dsh-plugins
-  - Prism-Shadow/deepseek-harness-book
-  - QIANLING-0831/dsh-memory-plus
-  - QinpanWan/dsh-harmonyos-pc
-  - RiversJin/dsh-plugins
-  - Tlyer233/dsh-vscode-review
-  - XSakura666/dsh-plugin-ChronoAgent
-  - Yu-tao-Li/dsh-computer-use-win
-  - Yuuhann1999/dsh-bloub-mood
-  - aa2246740/dsh-watcher
-  - acryldev/acryl
-  - … and 36 more
+- **Added: 45**
+  - 9livewolf/dsh-think-bounce-pet
+  - D-Robotics/dsh-plugin-rdk
+  - EugeneVl/dsh_session_folders
+  - GoldenZqqq/dsh-plugins
+  - HenryPhoebe/dsh-plugin-easyppt
+  - Jackywxsz/DSH-Creator
+  - KAIbsb/dsh-tray
+  - MemTensor/MemOS-Cloud-Dsh-Plugin
+  - Mengshang-spec/dsh-plugin-trustlens
+  - Mika-LiFeng/dsh-plugin
+  - NamedVivin/deepseek-harness-ide
+  - NelsonLongxiang/dsh-plugin-manager-gui
+  - PerryLink/dsh-fund-research
+  - QuanhuZeYu/dsh-plugins
+  - STARDUSTLC666/dsh-sql
+  - Shizuku-keop/dsh-plugin-console
+  - TOBYCAI/dsh-sessions-manager
+  - Tsqurt/dsh-plugin-studio
+  - WindyPro-rourou/dsh-logcat
+  - antlordGit/dsh-plugins
+  - aqiu817/dsh-llm-agentrouter
+  - azwosile/dsh-highres-vision
+  - ben4202121/buddybridge
+  - chenzheshushi-commits/dsh-evolve
+  - chumingjun/dsh-harness-one
+  - ddtcorex/govard
+  - defeatbug/dsh-plugins
+  - fjzzwxp/awesome-dsh-plugins
+  - hanzhangzzz/dsh-diagram
+  - heiheiha798/dsh-plugin-response-window
+  - … and 15 more
 
 - **Removed: 0**
