@@ -1,36 +1,23 @@
-# Changelog — 2026-08-28
+# Changelog — 2026-08-29
 
-- **Added: 45**
-  - 9livewolf/dsh-think-bounce-pet
-  - D-Robotics/dsh-plugin-rdk
-  - EugeneVl/dsh_session_folders
-  - GoldenZqqq/dsh-plugins
-  - HenryPhoebe/dsh-plugin-easyppt
-  - Jackywxsz/DSH-Creator
-  - KAIbsb/dsh-tray
-  - MemTensor/MemOS-Cloud-Dsh-Plugin
-  - Mengshang-spec/dsh-plugin-trustlens
-  - Mika-LiFeng/dsh-plugin
-  - NamedVivin/deepseek-harness-ide
-  - NelsonLongxiang/dsh-plugin-manager-gui
-  - PerryLink/dsh-fund-research
-  - QuanhuZeYu/dsh-plugins
-  - STARDUSTLC666/dsh-sql
-  - Shizuku-keop/dsh-plugin-console
-  - TOBYCAI/dsh-sessions-manager
-  - Tsqurt/dsh-plugin-studio
-  - WindyPro-rourou/dsh-logcat
-  - antlordGit/dsh-plugins
-  - aqiu817/dsh-llm-agentrouter
-  - azwosile/dsh-highres-vision
-  - ben4202121/buddybridge
-  - chenzheshushi-commits/dsh-evolve
-  - chumingjun/dsh-harness-one
-  - ddtcorex/govard
-  - defeatbug/dsh-plugins
-  - fjzzwxp/awesome-dsh-plugins
-  - hanzhangzzz/dsh-diagram
-  - heiheiha798/dsh-plugin-response-window
-  - … and 15 more
+- **Added: 18**
+  - AdamPlatin123/dsh-plugin-radar
+  - Aetheri-AI/dsh-plugins
+  - EternalNight996/dsh-memory-eternal
+  - HakureiMonika/dsh-sandbox-escalation-fix
+  - Max-Null/dsh-chinese-thinking
+  - Ramenne/DeepSeek-Harness-Gov
+  - Sivan757/dsh-agent-plugins-market
+  - TFboy1/dsh-minecraft-ui
+  - extracurricular-ai/dsh-filesnap
+  - geeklei/dsh-plugins
+  - hanshanyike/dsh-yolo
+  - louke6572/dsh-whale-widget-plus
+  - lw-storm/dsh-plugin-masterprompt
+  - ndinigsihj/dsh-plugins
+  - ryubyte/dsh-a2a
+  - sophia7320/dsh-plugin
+  - winter-street/dsh-plugin-agent-budget
+  - zjl1989-li/dsh-harness-zh-cn
 
 - **Removed: 0**
