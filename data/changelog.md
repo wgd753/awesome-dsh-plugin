@@ -1,23 +1,36 @@
-# Changelog — 2026-08-29
+# Changelog — 2026-08-30
 
-- **Added: 18**
-  - AdamPlatin123/dsh-plugin-radar
-  - Aetheri-AI/dsh-plugins
-  - EternalNight996/dsh-memory-eternal
-  - HakureiMonika/dsh-sandbox-escalation-fix
-  - Max-Null/dsh-chinese-thinking
-  - Ramenne/DeepSeek-Harness-Gov
-  - Sivan757/dsh-agent-plugins-market
-  - TFboy1/dsh-minecraft-ui
-  - extracurricular-ai/dsh-filesnap
-  - geeklei/dsh-plugins
-  - hanshanyike/dsh-yolo
-  - louke6572/dsh-whale-widget-plus
-  - lw-storm/dsh-plugin-masterprompt
-  - ndinigsihj/dsh-plugins
-  - ryubyte/dsh-a2a
-  - sophia7320/dsh-plugin
-  - winter-street/dsh-plugin-agent-budget
-  - zjl1989-li/dsh-harness-zh-cn
+- **Added: 113**
+  - 534119219/chicheng-cron
+  - AKS1st/dock
+  - AgriciDaniel/deepseek-harness-brain
+  - AlbireoIris/dsh-plugins
+  - Asher-2000/dsh-memory-connect
+  - Carrick-K7/dsh-plugin-source
+  - Drhushi/dsh-plugin-tav2
+  - Earnest02522/dsh-archive-manager
+  - EarzuChan/DshVibeLearning
+  - Ed-Marcavage/awesome-security-agent-harnesses
+  - Eridani075/deepseek-harness-antigravity-oauth
+  - Fantasality/dsh-origin-plugin
+  - FeiZhuNiU-INFJA/dsh-stock-ticker
+  - Fisfzy/zotero-wave-rag
+  - FuqiangCraft/dsh-desktop
+  - HaijieChen/dsh-plugin
+  - Lenonss/DSH_VsCodeMode
+  - Leo-Ayh-Oday/motion-pro-max
+  - MengYuil/dsh-ponytail
+  - Mingbing-get/holdRein
+  - NeuraVoxel/dsh-plugin-turn-cost
+  - PerryLink/dsh-data-quality
+  - PerryLink/dsh-defend
+  - PerryLink/dsh-skill-pack-security
+  - PerryLink/dsh-talk
+  - SCSpotato/dsh-remote
+  - See-Sol-Lab/DeepSeekGUI
+  - SingleOne/dsh-notify-center
+  - TestTheBoy/dsh_plugin_file_attach
+  - TheD666/dsh-plugins
+  - … and 83 more
 
 - **Removed: 0**
