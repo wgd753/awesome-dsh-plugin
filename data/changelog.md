@@ -1,36 +1,36 @@
-# Changelog — 2026-08-30
+# Changelog — 2026-08-31
 
-- **Added: 113**
-  - 534119219/chicheng-cron
-  - AKS1st/dock
-  - AgriciDaniel/deepseek-harness-brain
-  - AlbireoIris/dsh-plugins
-  - Asher-2000/dsh-memory-connect
-  - Carrick-K7/dsh-plugin-source
-  - Drhushi/dsh-plugin-tav2
-  - Earnest02522/dsh-archive-manager
-  - EarzuChan/DshVibeLearning
-  - Ed-Marcavage/awesome-security-agent-harnesses
-  - Eridani075/deepseek-harness-antigravity-oauth
-  - Fantasality/dsh-origin-plugin
-  - FeiZhuNiU-INFJA/dsh-stock-ticker
-  - Fisfzy/zotero-wave-rag
-  - FuqiangCraft/dsh-desktop
-  - HaijieChen/dsh-plugin
-  - Lenonss/DSH_VsCodeMode
-  - Leo-Ayh-Oday/motion-pro-max
-  - MengYuil/dsh-ponytail
-  - Mingbing-get/holdRein
-  - NeuraVoxel/dsh-plugin-turn-cost
-  - PerryLink/dsh-data-quality
-  - PerryLink/dsh-defend
-  - PerryLink/dsh-skill-pack-security
-  - PerryLink/dsh-talk
-  - SCSpotato/dsh-remote
-  - See-Sol-Lab/DeepSeekGUI
-  - SingleOne/dsh-notify-center
-  - TestTheBoy/dsh_plugin_file_attach
-  - TheD666/dsh-plugins
-  - … and 83 more
+- **Added: 31**
+  - 1321928757/dsh-plugin-skills
+  - AlexQuidditch/dsh-plugins
+  - AnakinWu/DSH-plugin
+  - Cyning12/dsh-coding-kit
+  - ExtraZC/dsh-plugins
+  - HuanLinOTO/dsh-plugin-better-glob
+  - Justin-sky/ai-art-engine
+  - Kaiji-Z/dsh-plugin-warroom
+  - KuramiWan/dshp-plugin-panel
+  - LHZJX/dsh-plugins
+  - NOirBRight/dsh-plugins
+  - Sh1wu0814/dsh-plugin-manager
+  - Vanisper/dsh-plugins
+  - bzlir/obsidian-dsh-plugin
+  - cpolar-2/dsh-plugin
+  - doudiu4ever/dsh-plugins
+  - fangqian616/consensus-pipeline
+  - focksor/dsh-plugin-node-time
+  - fusang991/dsh-plugin-feishu-bridge
+  - happyCxxl/dsh-plugins
+  - hherosoul/dsh-smart-charts
+  - inmny/dsh-sandbox-escalation-fix
+  - kevinchennewbee/PenglaiAgent
+  - liguobao/ds-harness-remote
+  - niuhuoshan/launch-wechat-miniprogram
+  - oh-my-dsh/dsh-plugin-upgrade-skill
+  - onenameneo/dsh-plugin-loom-chat
+  - theBigGavin/marketingdashboard
+  - wingillis/dsh-plugins
+  - yudaxia1/one-dark-pro-dsh-plugin
+  - … and 1 more
 
 - **Removed: 0**
