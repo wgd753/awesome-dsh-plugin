@@ -1,36 +1,28 @@
-# Changelog — 2026-08-31
+# Changelog — 2026-09-01
 
-- **Added: 31**
-  - 1321928757/dsh-plugin-skills
-  - AlexQuidditch/dsh-plugins
-  - AnakinWu/DSH-plugin
-  - Cyning12/dsh-coding-kit
-  - ExtraZC/dsh-plugins
-  - HuanLinOTO/dsh-plugin-better-glob
-  - Justin-sky/ai-art-engine
-  - Kaiji-Z/dsh-plugin-warroom
-  - KuramiWan/dshp-plugin-panel
-  - LHZJX/dsh-plugins
-  - NOirBRight/dsh-plugins
-  - Sh1wu0814/dsh-plugin-manager
-  - Vanisper/dsh-plugins
-  - bzlir/obsidian-dsh-plugin
-  - cpolar-2/dsh-plugin
-  - doudiu4ever/dsh-plugins
-  - fangqian616/consensus-pipeline
-  - focksor/dsh-plugin-node-time
-  - fusang991/dsh-plugin-feishu-bridge
-  - happyCxxl/dsh-plugins
-  - hherosoul/dsh-smart-charts
-  - inmny/dsh-sandbox-escalation-fix
-  - kevinchennewbee/PenglaiAgent
-  - liguobao/ds-harness-remote
-  - niuhuoshan/launch-wechat-miniprogram
-  - oh-my-dsh/dsh-plugin-upgrade-skill
-  - onenameneo/dsh-plugin-loom-chat
-  - theBigGavin/marketingdashboard
-  - wingillis/dsh-plugins
-  - yudaxia1/one-dark-pro-dsh-plugin
-  - … and 1 more
+- **Added: 23**
+  - CZX2244/dsh-bilibili
+  - FishBottle7/opencode2dsh
+  - Kaiji-Z/dsh-plugin-stardeck
+  - Minglink/dsh-infinite-gen-3
+  - PeterTXPan/dsh-unreal-mcp
+  - Rymascot/DSH-Plugin-Profiler
+  - SUFE-Chaoyi/dsh-plugin-csv-report
+  - YuJunZhiXue/dsh-purge
+  - ZhaoBody/dsh-plugins
+  - classic-takeoff/DSH_plugins
+  - dingyi580/dsh-plugin-gemini-theme
+  - hardness1020/learn-deepseek-harness
+  - huangruiteng/loopx
+  - lgzzzz/dsh-plugins
+  - luckycaoj/dsh-plugin-session-console-sleepcat
+  - mzzsfy/dsh-plugin
+  - oh-my-dsh/dsh-plugin-registry
+  - perpytt/dsh-plugin
+  - qihongmu/dsh-plugins
+  - wqy8593521/dsh-model-pro
+  - x-feichen/dsh-plugin-skill-lens
+  - xiongqiang521/dsh-plugin
+  - zjingwang/dsh-plugins
 
 - **Removed: 0**
