@@ -1,28 +1,36 @@
-# Changelog — 2026-09-01
+# Changelog — 2026-09-02
 
-- **Added: 23**
-  - CZX2244/dsh-bilibili
-  - FishBottle7/opencode2dsh
-  - Kaiji-Z/dsh-plugin-stardeck
-  - Minglink/dsh-infinite-gen-3
-  - PeterTXPan/dsh-unreal-mcp
-  - Rymascot/DSH-Plugin-Profiler
-  - SUFE-Chaoyi/dsh-plugin-csv-report
-  - YuJunZhiXue/dsh-purge
-  - ZhaoBody/dsh-plugins
-  - classic-takeoff/DSH_plugins
-  - dingyi580/dsh-plugin-gemini-theme
-  - hardness1020/learn-deepseek-harness
-  - huangruiteng/loopx
-  - lgzzzz/dsh-plugins
-  - luckycaoj/dsh-plugin-session-console-sleepcat
-  - mzzsfy/dsh-plugin
-  - oh-my-dsh/dsh-plugin-registry
-  - perpytt/dsh-plugin
-  - qihongmu/dsh-plugins
-  - wqy8593521/dsh-model-pro
-  - x-feichen/dsh-plugin-skill-lens
-  - xiongqiang521/dsh-plugin
-  - zjingwang/dsh-plugins
+- **Added: 31**
+  - 00080000/dsh-project-memory
+  - Astro-Han/pawwork
+  - BitDG/dsh-plugins
+  - DJ1667/dsh-pluging-ui-settings-custom-headers
+  - GZX2211/dsh-Visual-Workflow
+  - GalaxyBatMan111/dsh-plugins
+  - Jimmy0123-ux/dsh-token-pet
+  - KYinCode/dsh-hot-installer
+  - L666-JN/dsh-plugin-auto-vision
+  - Loooookk/dsh-plugins
+  - LouisCanBe/dsh-plugin-ollama-monitor
+  - Moonshile/moonshile-dsh-plugins
+  - NoelJudeNoel/dshost-plugin
+  - Phant0Meow/dsh-meow-cachebilling
+  - SepineTam/cnki-mcp
+  - Victor-770/dsh-commandcode-provider
+  - Waterkyuu/theoria
+  - anbeime/skill
+  - cloveric/tarocub
+  - liangdabiao/dsh-plugin-developer-skill
+  - liqiGeGe/dsh-plugin-execution-graph
+  - litestartup-com/dsh-api-gateway
+  - sunxin-ai/dsh-design-qa
+  - thundax-lyp/dsh-plugin-development
+  - tieJiangW/deepseek-harness-idea
+  - tingfeng347/dsh-vscode-workbench
+  - tnnevol/fn-os-apps
+  - xing-shuyin/pi-web-ui
+  - xmuwenxiang/dsh-web-chat
+  - xuexiaolei1997/dsh-plugin-stock-x
+  - … and 1 more
 
 - **Removed: 0**
