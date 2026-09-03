@@ -1,36 +1,31 @@
-# Changelog — 2026-09-02
+# Changelog — 2026-09-03
 
-- **Added: 31**
-  - 00080000/dsh-project-memory
-  - Astro-Han/pawwork
-  - BitDG/dsh-plugins
-  - DJ1667/dsh-pluging-ui-settings-custom-headers
-  - GZX2211/dsh-Visual-Workflow
-  - GalaxyBatMan111/dsh-plugins
-  - Jimmy0123-ux/dsh-token-pet
-  - KYinCode/dsh-hot-installer
-  - L666-JN/dsh-plugin-auto-vision
-  - Loooookk/dsh-plugins
-  - LouisCanBe/dsh-plugin-ollama-monitor
-  - Moonshile/moonshile-dsh-plugins
-  - NoelJudeNoel/dshost-plugin
-  - Phant0Meow/dsh-meow-cachebilling
-  - SepineTam/cnki-mcp
-  - Victor-770/dsh-commandcode-provider
-  - Waterkyuu/theoria
-  - anbeime/skill
-  - cloveric/tarocub
-  - liangdabiao/dsh-plugin-developer-skill
-  - liqiGeGe/dsh-plugin-execution-graph
-  - litestartup-com/dsh-api-gateway
-  - sunxin-ai/dsh-design-qa
-  - thundax-lyp/dsh-plugin-development
-  - tieJiangW/deepseek-harness-idea
-  - tingfeng347/dsh-vscode-workbench
-  - tnnevol/fn-os-apps
-  - xing-shuyin/pi-web-ui
-  - xmuwenxiang/dsh-web-chat
-  - xuexiaolei1997/dsh-plugin-stock-x
-  - … and 1 more
+- **Added: 26**
+  - 1byteone/dsh-plugin-dev-tutorial
+  - AmethystLuna/embedded-workbench
+  - Azusa-299/ba-click-fx-dsh-plugin
+  - DM-spider/dsh-plugins
+  - JingHao-Leon/dsh-alpha-desk
+  - Kihara777/NixKits
+  - PerryLink/dsh-session-pin
+  - Tiger3807861189/GLM-5.3-Flash-J-Space-Capability-Realization-Report
+  - caob23/dsh-browser-control
+  - frontier-harness-eval/eval
+  - ganfne123/dsh-plugin-api-quota
+  - goatliamia/dsh-runtime-react
+  - huaweicloud/huaweicloud-devkit
+  - justhalfbit/dsh-plugin-memory
+  - justlovemaki/PrismFlowAgent
+  - lemoncat7/dsh-knowledge
+  - lw-storm/dsh-plugin-noticeme
+  - lybiewn/dsh_plugin
+  - mekos2772/dsh-plugin-mimi
+  - oh-my-engine/dsh-plugin-oh-my-engine
+  - opdsh/unity-plugin
+  - pax-beehive/dsh-hub-cli
+  - plastic-labs/honcho
+  - ranglang/dsh-plugin
+  - sagirimo/BioDSH
+  - wanderer-yk/dsh-xueqiu
 
 - **Removed: 0**
