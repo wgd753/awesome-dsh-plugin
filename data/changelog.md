@@ -1,31 +1,36 @@
-# Changelog — 2026-09-03
+# Changelog — 2026-09-04
 
-- **Added: 26**
-  - 1byteone/dsh-plugin-dev-tutorial
-  - AmethystLuna/embedded-workbench
-  - Azusa-299/ba-click-fx-dsh-plugin
-  - DM-spider/dsh-plugins
-  - JingHao-Leon/dsh-alpha-desk
-  - Kihara777/NixKits
-  - PerryLink/dsh-session-pin
-  - Tiger3807861189/GLM-5.3-Flash-J-Space-Capability-Realization-Report
-  - caob23/dsh-browser-control
-  - frontier-harness-eval/eval
-  - ganfne123/dsh-plugin-api-quota
-  - goatliamia/dsh-runtime-react
-  - huaweicloud/huaweicloud-devkit
-  - justhalfbit/dsh-plugin-memory
-  - justlovemaki/PrismFlowAgent
-  - lemoncat7/dsh-knowledge
-  - lw-storm/dsh-plugin-noticeme
-  - lybiewn/dsh_plugin
-  - mekos2772/dsh-plugin-mimi
-  - oh-my-engine/dsh-plugin-oh-my-engine
-  - opdsh/unity-plugin
-  - pax-beehive/dsh-hub-cli
-  - plastic-labs/honcho
-  - ranglang/dsh-plugin
-  - sagirimo/BioDSH
-  - wanderer-yk/dsh-xueqiu
+- **Added: 33**
+  - 123twtd/dsh-plugin-manager
+  - 398894496-arch/TDHarness-coding
+  - Amakurai/dsh-liketavern
+  - Axiaohungry/dsh-llm-workbuddy
+  - L666-JN/dsh-plugins
+  - LouisHaoL/dsh-timer-agent
+  - MisterZhouZhou/dsh-plugins
+  - MrmoLabs/dsh-mermaid
+  - OpenPetsHQ/openpets
+  - PerryLink/dsh-library
+  - Qian-Ning/prompt-skill-armory
+  - TTAWDTT/dsh-plugin-wallpapers
+  - TungLamC/dsh-plugins
+  - busabase/busabase-dsh-plugin
+  - chuichao/dsh-plugin-edit-review
+  - delef/dsh-plugin-auto-review
+  - djs326/dsh-plugin-width-slider
+  - goatbroai/web-background
+  - iiiiiei/dsh-plugin-norm
+  - inclusionAI/Avernet
+  - jeffreymu/dsh-plugins
+  - jingyunstudio/jingyun-dsh
+  - maxwell-feng/dsh-tinyfish-search
+  - null119/dsh-mcp-manage
+  - porcelaintech/dsh-plugin-voice-input
+  - qinyre/dsh-plugin-archive-manager
+  - sanyamjain2014/dsh-plugins
+  - wbin0001/dsh-comfyui-canvas
+  - wilburli/onlyMemory-plugin
+  - xxww0098/dsh-plugin-oauth-subs
+  - … and 3 more
 
 - **Removed: 0**
