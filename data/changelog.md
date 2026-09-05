@@ -1,36 +1,26 @@
-# Changelog — 2026-09-04
+# Changelog — 2026-09-05
 
-- **Added: 33**
-  - 123twtd/dsh-plugin-manager
-  - 398894496-arch/TDHarness-coding
-  - Amakurai/dsh-liketavern
-  - Axiaohungry/dsh-llm-workbuddy
-  - L666-JN/dsh-plugins
-  - LouisHaoL/dsh-timer-agent
-  - MisterZhouZhou/dsh-plugins
-  - MrmoLabs/dsh-mermaid
-  - OpenPetsHQ/openpets
-  - PerryLink/dsh-library
-  - Qian-Ning/prompt-skill-armory
-  - TTAWDTT/dsh-plugin-wallpapers
-  - TungLamC/dsh-plugins
-  - busabase/busabase-dsh-plugin
-  - chuichao/dsh-plugin-edit-review
-  - delef/dsh-plugin-auto-review
-  - djs326/dsh-plugin-width-slider
-  - goatbroai/web-background
-  - iiiiiei/dsh-plugin-norm
-  - inclusionAI/Avernet
-  - jeffreymu/dsh-plugins
-  - jingyunstudio/jingyun-dsh
-  - maxwell-feng/dsh-tinyfish-search
-  - null119/dsh-mcp-manage
-  - porcelaintech/dsh-plugin-voice-input
-  - qinyre/dsh-plugin-archive-manager
-  - sanyamjain2014/dsh-plugins
-  - wbin0001/dsh-comfyui-canvas
-  - wilburli/onlyMemory-plugin
-  - xxww0098/dsh-plugin-oauth-subs
-  - … and 3 more
+- **Added: 21**
+  - Minglink/dsh-stream-market
+  - SiriusNEO/StarAgent
+  - StephenLGF/dsh-plugins
+  - SuperJJ007/papermachine
+  - WeiyangPro/dsh-deepseek-usage-panel
+  - Witherwithwinter/DeepSeek-Balance-Whale-Widget-Bowl
+  - Zhiye-Tang/weibo-wallpaper-dsh-plugin
+  - chenxiachan/thoughtdag
+  - cryjkd/dsh-clawbot
+  - gaishilaji/dsh-plugin-cost
+  - hqz-2024/dsh-plugin
+  - jqwan/dsh-plugins
+  - liulingfei-1/deepseek-harness-ios
+  - maxwell-feng/dsh-searxng-web
+  - memories-coder/DSH-plugin-android-apk
+  - plolpl789/dsh-raw-html-v2
+  - supanexus/dsh-plugin-chat-enhance
+  - supanexus/dsh-plugin-file-explorer
+  - wsdx233/dsh-plugin-robust-bash
+  - wuwei6666/dsh-pluginGuard
+  - zrt-ai-lab/ViNote
 
 - **Removed: 0**

@@ -1,26 +1,26 @@
 {
- "total": 3822,
- "updated": "2026-09-04T07:39:54+00:00",
+ "total": 3843,
+ "updated": "2026-09-05T07:20:14+00:00",
  "by_category": {
-  "agents": 793,
-  "ui": 984,
+  "agents": 797,
+  "ui": 994,
   "dev": 342,
   "eco": 126,
-  "web": 130,
-  "sessions": 203,
-  "other": 894,
+  "web": 131,
+  "sessions": 201,
+  "other": 901,
   "knowledge": 77,
   "media": 64,
   "fun": 44,
   "integrations": 50,
-  "util": 115
+  "util": 116
  },
  "by_language": {
-  "TypeScript": 1380,
+  "TypeScript": 1389,
   "Go": 32,
-  "Python": 230,
-  "JavaScript": 1805,
-  "Rust": 47,
+  "Python": 231,
+  "JavaScript": 1814,
+  "Rust": 48,
   "HTML": 42,
   "None": 173,
   "Shell": 25,
@@ -30,7 +30,7 @@
   "PowerShell": 30,
   "C++": 2,
   "CSS": 6,
-  "Swift": 6,
+  "Swift": 7,
   "GDScript": 1,
   "Java": 4,
   "Dockerfile": 1,
@@ -42,5 +42,5 @@
   "Astro": 1,
   "Emacs Lisp": 1
  },
- "tag_only": 265
+ "tag_only": 268
 }
