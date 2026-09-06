@@ -1,26 +1,36 @@
-# Changelog — 2026-09-05
+# Changelog — 2026-09-06
 
-- **Added: 21**
-  - Minglink/dsh-stream-market
-  - SiriusNEO/StarAgent
-  - StephenLGF/dsh-plugins
-  - SuperJJ007/papermachine
-  - WeiyangPro/dsh-deepseek-usage-panel
-  - Witherwithwinter/DeepSeek-Balance-Whale-Widget-Bowl
-  - Zhiye-Tang/weibo-wallpaper-dsh-plugin
-  - chenxiachan/thoughtdag
-  - cryjkd/dsh-clawbot
-  - gaishilaji/dsh-plugin-cost
-  - hqz-2024/dsh-plugin
-  - jqwan/dsh-plugins
-  - liulingfei-1/deepseek-harness-ios
-  - maxwell-feng/dsh-searxng-web
-  - memories-coder/DSH-plugin-android-apk
-  - plolpl789/dsh-raw-html-v2
-  - supanexus/dsh-plugin-chat-enhance
-  - supanexus/dsh-plugin-file-explorer
-  - wsdx233/dsh-plugin-robust-bash
-  - wuwei6666/dsh-pluginGuard
-  - zrt-ai-lab/ViNote
+- **Added: 1233**
+  - 01Virex/dsh-foxy-jumpscare
+  - 040822/dsh-codex-approval
+  - 091022yyj/deepseek-harness-desktop
+  - 0nt-one/dsh-neo-skin
+  - 0nt-one/dsh-voice-input
+  - 0xKcyzz/dsh-local-project
+  - 1052326311/dsh-goal-quiescence
+  - 1105623876/dsh-bench
+  - 1148281964/dsh-token-stats
+  - 1149784810/jayhe-dsh-gamemaker
+  - 12362566/dsh-exit-bash
+  - 1514100951/dsh-notify-plugins
+  - 15828148/dsh-portable-launcher
+  - 1739321142/DevTools-Custom-Beautification-Plugin-for-DeepseekHarness-Class
+  - 1a125/dsh-mcp-manager
+  - 1while1/dsh-whale-subagent
+  - 2002yxy/dsh-nailong-desktop-pet
+  - 2008924/dsh-progress-viz
+  - 202411130091-coder/codex-dsh-bridge
+  - 212016679-ctrl/dsh-plugin-mimo-tts
+  - 21hbguo/dsh-mobile-ui
+  - 2303572348/deepseek-harness-memory
+  - 245678000000/dsh-shield
+  - 2501136589/dsh-rewind
+  - 2h0n/dsh-web-notification
+  - 3403473060/dsh-inline-images
+  - 3930a/dsh-stock-watch
+  - 394804078-pixel/dsh-liquid-glass
+  - 4060415/Deepseek-harness-routing-layer-
+  - 4mForAI/dsh-plain-plugin-menu
+  - … and 1203 more
 
 - **Removed: 0**
