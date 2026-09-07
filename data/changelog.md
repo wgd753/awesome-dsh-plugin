@@ -1,36 +1,28 @@
-# Changelog — 2026-09-06
+# Changelog — 2026-09-07
 
-- **Added: 1233**
-  - 01Virex/dsh-foxy-jumpscare
-  - 040822/dsh-codex-approval
-  - 091022yyj/deepseek-harness-desktop
-  - 0nt-one/dsh-neo-skin
-  - 0nt-one/dsh-voice-input
-  - 0xKcyzz/dsh-local-project
-  - 1052326311/dsh-goal-quiescence
-  - 1105623876/dsh-bench
-  - 1148281964/dsh-token-stats
-  - 1149784810/jayhe-dsh-gamemaker
-  - 12362566/dsh-exit-bash
-  - 1514100951/dsh-notify-plugins
-  - 15828148/dsh-portable-launcher
-  - 1739321142/DevTools-Custom-Beautification-Plugin-for-DeepseekHarness-Class
-  - 1a125/dsh-mcp-manager
-  - 1while1/dsh-whale-subagent
-  - 2002yxy/dsh-nailong-desktop-pet
-  - 2008924/dsh-progress-viz
-  - 202411130091-coder/codex-dsh-bridge
-  - 212016679-ctrl/dsh-plugin-mimo-tts
-  - 21hbguo/dsh-mobile-ui
-  - 2303572348/deepseek-harness-memory
-  - 245678000000/dsh-shield
-  - 2501136589/dsh-rewind
-  - 2h0n/dsh-web-notification
-  - 3403473060/dsh-inline-images
-  - 3930a/dsh-stock-watch
-  - 394804078-pixel/dsh-liquid-glass
-  - 4060415/Deepseek-harness-routing-layer-
-  - 4mForAI/dsh-plain-plugin-menu
-  - … and 1203 more
+- **Added: 23**
+  - 398894496-arch/DSH-KRouter
+  - CaffeineOddity/dsh-plugins
+  - Cerbur/clutch-dsh
+  - DSH-APP/DSHA
+  - DSH-APP/awesome-dsha-plugins
+  - Kr-ATG/dsh-webui
+  - Liora-Z/dsh-token-optimizer
+  - Mydstiny/remotedesk-dsh-plugin
+  - PelyDeng/dsh-plugin-manager
+  - aa2246740/dsh-better-display
+  - atharvotech/FreeDeepseekAPI-EN
+  - benz-ai-x/dsh-plugin-dev
+  - fengyungithub/dsh-short-video-studio
+  - keeshakulbida948-tech/dsh-plugin-fun
+  - keeshakulbida948-tech/dsh-plugin-sticker
+  - siliconflow/dsh-plugins
+  - tawny-labs/dsh-plugins
+  - thibautrey/multivibe
+  - wuxiangru915/dsh-plugins
+  - wxj783428795/dsh-plugins
+  - yahoolcj/dsh-plugin-zerone
+  - zdforever/dsh-plugin-telegram
+  - zhangps2008/dsh-plugin
 
 - **Removed: 0**
