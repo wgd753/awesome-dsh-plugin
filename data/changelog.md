@@ -1,18 +1,18 @@
-# Changelog — 2026-09-08
+# Changelog — 2026-09-09
 
 - **Added: 13**
-  - GCWing/OpenBitFun
-  - LamplitIsles/dsh-plugins
-  - Zoria-Lind/dsh-token-optimizer
-  - Zvyan/PromptForge
-  - ai-fu-cn/dsh-plugin-memos-code-retrospect
-  - betterwgo/dsh-plugin-codebuddy
-  - careyourcake/dsh-plugin-litsearch-zotero
-  - dsh-so/dsh-plugin-advisor
-  - jo32/DeepDeck
-  - lzjdeyj-svg/dsh-plugin-manager
-  - robiteame/dsh-session-tree-extension
-  - rogerdigital/dsh-searxng
-  - sorsama/deepseek-harness-relay
+  - Ayuilos/Miffan
+  - HTian-qwq/prts-terrarchive
+  - LiPu-jpg/Openwrite
+  - Tuhuaqing/just-dsh-plugins
+  - a1exsun/dsh-council
+  - enteguo/dsh-plugin-quick-chat
+  - goatliamia/dsh-runtime
+  - himovo/movo
+  - iptton-ai/dsh-plugin-session-notes
+  - mrRisega/dsh-remote
+  - quqxui/dsh-memgas
+  - rootkiller6788/dsh-launcher
+  - tramington/dsh-plugins
 
 - **Removed: 0**
