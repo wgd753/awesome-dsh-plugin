@@ -1,23 +1,36 @@
-# Changelog — 2026-09-12
+# Changelog — 2026-09-13
 
-- **Added: 18**
-  - DSH-EAC/DSH-Desktop-EAC
-  - Yurzi/dsh-pdf-mineru
-  - a86582751/dsh-nexttavern
-  - agentic-os-org/ANOLISA
-  - axelfreeman/marketing-mindset
-  - cv-superding/dsh-deepseek-web-login
-  - dingminhua/dsh-connect-workbuddy
-  - emo-xiaoyu/harness-mix
-  - fore-thought/deepseek-harness-project-collection-starter
-  - genen-s/dsh-plugins
-  - heoo0124/dsh-plugins
-  - huangfuren/dsh-plugins
-  - huiyeo/dsh-plugin-mermaid-preview
-  - iamyounglee/remote-workspace-mcp
-  - iptodays/dsh-plugins
-  - sz1698/dsh-bg-new
-  - yinnho/aginxbrowser
-  - zm2yp5sggv-bit/Wu-Song-s-dsh-plugin-repository
+- **Added: 665**
+  - 1014029855/dsh-context-lens
+  - 1035041186/dsh-llm-ollama
+  - 1070296335-create/dph-taskboard
+  - 123caiji/dsh-memory-toolkit
+  - 13162563982/dsh-token-planner
+  - 1321928757/dsh-mysql
+  - 133563825as-ai/dsh-api-dashboard
+  - 162568316/dsh-tokenrhythm-bill
+  - 18126295767-cell/deepseek-harness-ultimate
+  - 1841220388zzzcccxxx-star/dsh-token-stats
+  - 1HelloMan1/dsh-usage-dashboard-plus
+  - 2006spy/dsh-token-billing
+  - 21hbguo/dsh-feishu-bridge-plugin
+  - 21hbguo/dsh-session-batch-manager
+  - 21hbguo/dsh-thinking-counter
+  - 253071608/dsh-localnote
+  - 33moren33/dsh-memory-pyramid
+  - 444136347/dsh-capability-discovery
+  - 534119219/chicheng-peak
+  - 534119219/chicheng-quickinput
+  - 54088lp/dsh-kafka-ui
+  - 54xkeee/dsh-youreyes
+  - 57ggfk/dsh-turn-status-phrases
+  - 764475881/dsh-chat-width
+  - 82c86b8z86-stack/dsh-engineering-workflow
+  - 988hj7tczd-oss/harness-desktop
+  - AI-Galaxy-GPU/dsh-sound
+  - AIRIKE1/dsh-client-ui-tweakcn
+  - AKS1st/dock-images
+  - AcidGr/dsh-web-whale-maid
+  - … and 635 more
 
 - **Removed: 0**
