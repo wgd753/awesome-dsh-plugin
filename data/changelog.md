@@ -1,36 +1,33 @@
-# Changelog — 2026-09-13
+# Changelog — 2026-09-14
 
-- **Added: 665**
-  - 1014029855/dsh-context-lens
-  - 1035041186/dsh-llm-ollama
-  - 1070296335-create/dph-taskboard
-  - 123caiji/dsh-memory-toolkit
-  - 13162563982/dsh-token-planner
-  - 1321928757/dsh-mysql
-  - 133563825as-ai/dsh-api-dashboard
-  - 162568316/dsh-tokenrhythm-bill
-  - 18126295767-cell/deepseek-harness-ultimate
-  - 1841220388zzzcccxxx-star/dsh-token-stats
-  - 1HelloMan1/dsh-usage-dashboard-plus
-  - 2006spy/dsh-token-billing
-  - 21hbguo/dsh-feishu-bridge-plugin
-  - 21hbguo/dsh-session-batch-manager
-  - 21hbguo/dsh-thinking-counter
-  - 253071608/dsh-localnote
-  - 33moren33/dsh-memory-pyramid
-  - 444136347/dsh-capability-discovery
-  - 534119219/chicheng-peak
-  - 534119219/chicheng-quickinput
-  - 54088lp/dsh-kafka-ui
-  - 54xkeee/dsh-youreyes
-  - 57ggfk/dsh-turn-status-phrases
-  - 764475881/dsh-chat-width
-  - 82c86b8z86-stack/dsh-engineering-workflow
-  - 988hj7tczd-oss/harness-desktop
-  - AI-Galaxy-GPU/dsh-sound
-  - AIRIKE1/dsh-client-ui-tweakcn
-  - AKS1st/dock-images
-  - AcidGr/dsh-web-whale-maid
-  - … and 635 more
+- **Added: 28**
+  - CangShui/dsh-plugin-collection
+  - Clearailhc/clearai-dsh
+  - DZQJOKER/dsh-plugin-local-model
+  - Echan1208/DeepSeek-Harness-Setup
+  - JIUYUE-SEP/dsh-plugin-archive-shelf
+  - Jinsight-gif/dsh-plugin-gitbash
+  - Kayungko/dsh-plugin-product-design
+  - Latbby/dsh-plugin
+  - ManoloRemiddi/augmentor-dsh-extension-plugin
+  - NakamuraIA/dsh-plugin-speech
+  - Nyasers/DSHana
+  - Tiger3807861189/J-Space-Cognition-Suite
+  - YS-BW/dsh-plugins
+  - ZG2017/dsh-plugin-insight-mode
+  - aibo204/dsh-plugin-computer-use
+  - cherrchen/dsh-plugin-multi-root-workspace
+  - cyberofficial/dsh-plugin-balance
+  - earthwalker17/MiniDSH
+  - honestold3/dsh-plugin
+  - jacket-sikaha/dsh-plugin
+  - lunar-tear/dsh-plugins
+  - nutsDad/dsh-plugin-vllm-ascend-profiler
+  - ouli-1242/dsh-plugin-tool-management
+  - sopaco/deepwiki-rs
+  - startnewlabs/dsh-history
+  - troytse/dsh-plugin-subagent-roles
+  - youqu68/dsh-delete-chat
+  - zp2921060653/dsh-plugins
 
 - **Removed: 0**
