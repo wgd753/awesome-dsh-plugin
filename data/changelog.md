@@ -1,31 +1,22 @@
-# Changelog — 2026-09-15
+# Changelog — 2026-09-16
 
-- **Added: 26**
-  - AdaJyao/dsh-plugins
-  - CkEFFAF/dsh-plugin-devkit
-  - Fasthei/DSHairedPlugin
-  - KaichenCurry/dsh-design-mode
-  - NoodleStormno/dsh-plugin-tic80
-  - RUO-MO/DSH-Plugin
-  - WestFox-AwA/dsh-prompt-optimizer
-  - ZSeven-W/rish-app
-  - bitcopath/dsh-plugins
-  - careyourcake/dsh-plugin-isaaclab-setup
-  - catDforD/DshPlugin
-  - claudejaune/OmaSeek
-  - eskim2001/dshcloud
-  - hzxwonder-dsh-plugins/dsh-plugin-project-memory
-  - jasonjiang9527/dsh-plugins
-  - lonylonyday-cyber/dsh-plugins
-  - meto-ventus/dsh-ventus-plugins
-  - meto-ventus/dsh-ventus-whale
-  - miuzel/dsh-graph
-  - my-dsh-plugin/dsh-skill-manager
-  - nguyenduclong-ict/dsh-plugin-live-terminal
-  - rootkiller6788/dsh-flow
-  - shanyuhai007-netizen/dsh-plugins
-  - techflag/workdsh
-  - wushi2333/dsh-computer-use_codex-style
-  - yan-mc/dsh-normify
+- **Added: 17**
+  - Fangnai-byte/dsh-plugin-dev
+  - MasterZ9286/dsh-plugin-followup
+  - alexhegit/dsh-plugin-h3-hip
+  - alisher-amantay/dsh-plugins
+  - bzaics666/dsh-plugin
+  - citrusli2026/dsh-desktop
+  - eshmeshek/deepseek-harness-desktop
+  - huangchanghuan/dsh-plugins
+  - ilharp/dsh-plugins
+  - imasonhk-spec/dsh-plugins
+  - lilith1257/dsh-plugin-qq-groupmate
+  - liyown/dshx
+  - silentdragonz/dsh-plugins
+  - techflag/dsh-plugin-ssh
+  - toustifer/dsh-harvest
+  - xmm-prio/dsh-plugins
+  - yyyyyhhhhh0639/dsh-plugins
 
 - **Removed: 0**
