@@ -1,22 +1,31 @@
-# Changelog — 2026-09-16
+# Changelog — 2026-09-17
 
-- **Added: 17**
-  - Fangnai-byte/dsh-plugin-dev
-  - MasterZ9286/dsh-plugin-followup
-  - alexhegit/dsh-plugin-h3-hip
-  - alisher-amantay/dsh-plugins
-  - bzaics666/dsh-plugin
-  - citrusli2026/dsh-desktop
-  - eshmeshek/deepseek-harness-desktop
-  - huangchanghuan/dsh-plugins
-  - ilharp/dsh-plugins
-  - imasonhk-spec/dsh-plugins
-  - lilith1257/dsh-plugin-qq-groupmate
-  - liyown/dshx
-  - silentdragonz/dsh-plugins
-  - techflag/dsh-plugin-ssh
-  - toustifer/dsh-harvest
-  - xmm-prio/dsh-plugins
-  - yyyyyhhhhh0639/dsh-plugins
+- **Added: 26**
+  - 834063245-creator/LantaiAgent
+  - Better-Rain/dsh-plugin-photoshop
+  - CJ-SH/dsh-plugin-ollama-usage
+  - CJ-SH/dsh-plugin-ptc-bash
+  - CJ-SH/dsh-plugin-trellis-statusline
+  - DaXYao/dsh-plugin-fluffy-yard
+  - Duskriver/dsh-opencode-go
+  - EternalNight996/memory-eternal
+  - Guzhou2002/Fairy-DSH-Optimized
+  - HaydenSmith1121/dsh-plugins
+  - NattoCB/dsh-plugin-sidebar-views
+  - Noob-stupid/dsh-plugin-gating-hub
+  - PolinniZhong/dsh-session-workbench
+  - beihzb/dsh-opencode-session-header
+  - dsh-tauri/deepseek-harness-desktop
+  - falling-ts/dsh-force-compact
+  - guiyidu-ui/dsh-plugin-session-group
+  - kolawong/dsh-plugin-toolkit
+  - meyaomiao/dsh-server-deck
+  - realguan/dsh-dock
+  - rootkiller6788/dsh-plugin-anything
+  - weiwenjiewj-lang/wwj-dsh-plugins
+  - yj-liuzepeng/dsh-project-brain
+  - youdotcom-oss/agent-skills
+  - zhAo-byte/dsh-plugins
+  - zhang66633/.dsh-plugin-installer
 
 - **Removed: 0**
