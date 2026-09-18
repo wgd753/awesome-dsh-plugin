@@ -1,31 +1,25 @@
-# Changelog — 2026-09-17
+# Changelog — 2026-09-18
 
-- **Added: 26**
-  - 834063245-creator/LantaiAgent
-  - Better-Rain/dsh-plugin-photoshop
-  - CJ-SH/dsh-plugin-ollama-usage
-  - CJ-SH/dsh-plugin-ptc-bash
-  - CJ-SH/dsh-plugin-trellis-statusline
-  - DaXYao/dsh-plugin-fluffy-yard
-  - Duskriver/dsh-opencode-go
-  - EternalNight996/memory-eternal
-  - Guzhou2002/Fairy-DSH-Optimized
-  - HaydenSmith1121/dsh-plugins
-  - NattoCB/dsh-plugin-sidebar-views
-  - Noob-stupid/dsh-plugin-gating-hub
-  - PolinniZhong/dsh-session-workbench
-  - beihzb/dsh-opencode-session-header
-  - dsh-tauri/deepseek-harness-desktop
-  - falling-ts/dsh-force-compact
-  - guiyidu-ui/dsh-plugin-session-group
-  - kolawong/dsh-plugin-toolkit
-  - meyaomiao/dsh-server-deck
-  - realguan/dsh-dock
-  - rootkiller6788/dsh-plugin-anything
-  - weiwenjiewj-lang/wwj-dsh-plugins
-  - yj-liuzepeng/dsh-project-brain
-  - youdotcom-oss/agent-skills
-  - zhAo-byte/dsh-plugins
-  - zhang66633/.dsh-plugin-installer
+- **Added: 20**
+  - 2286893544/feishu-dsh-plugin
+  - 822384810/dsh-plugin
+  - Cesarfc206/dsh-plugin
+  - Derpyu520/qq-bridge
+  - GregoireLoens/dsh-plugins
+  - NekoHome-Studio/dsh-plugin-dev
+  - TimurSl/dsh-plugin-git-full
+  - VDERR/echocat-skill-panel-3.0
+  - anh-chu/dsh-plugins
+  - avdergh/poe2-exile-architect
+  - cholf5/dsh-plugin-dev-notes
+  - jiangnuonnuo/interview-dsh-plugin
+  - leai9572000/dsh-plugin-diff-visible
+  - morlay/dsh-plugin
+  - proDreams/dsh-tidewatch
+  - smilewhenever777/dsh-scholar
+  - taliesinb/dsh-plugins
+  - weekitmo/oh-my-dsh-plugins
+  - z91772524-ai/pojia-next
+  - zfqxuz/dsh-plugins
 
 - **Removed: 0**
