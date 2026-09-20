@@ -1,27 +1,36 @@
-# Changelog — 2026-09-19
+# Changelog — 2026-09-20
 
-- **Added: 22**
-  - 01men/ybkk-AIOS
-  - Admaing/dsh-plugin-computer-use
-  - BaqiF2/dsh-plugin-precheck
-  - Chen5173/dsh-plugins
-  - Coprexist/Copree
-  - Czerror/dsh-plugin-prompt-tool
-  - DIV7NE/dsh-plugins
-  - HiQ-AI/dingtalk-dsh-assistant
-  - Jueze-2019/dsh-redteam-mode
-  - Kostas-Xafis/dsh-plugins
-  - ShanWuYinShe/dsh-plugins
-  - bainianling/dsh-jailbreak-mode
-  - bihangchi9-creator/lark-agent-bridge
-  - blake-r/dsh-plugins
-  - bubbleptr/dsh-plugins
-  - epool86/dsh-monitor
-  - hhzzpp2493/dsh-plugins
-  - noteflowai/dsh-skills-anywhere
-  - virgoC0der/dsh-plugins
-  - webkubor/dsh-llm-hub
-  - zimita18-netizen/dsh-plugins
-  - zlZayn/dsh-zhihu-search
+- **Added: 346**
+  - 0imzero/dsh-workspace-menu
+  - 0xdenny218/stc-go
+  - 1Lyn-en/dsh-whale
+  - 23swccp/dsh-undo
+  - 240xu/dsh-websearch
+  - 6pofx/dsh-go
+  - 88514205-oss/dsh-ryoshu-slash
+  - 9087/dsh-diff-approval
+  - AAAAd-arch/nailong-harness
+  - AbcdefgXW/dsh-msg-hub
+  - AleCyriaco/deepseek-harness-desktop
+  - Angel2518975237/captain-ai
+  - Ansonfishing/dsh-cap-profile
+  - BaiZhi967/dsh-plugin-zcode-import
+  - BigBlueBaby/codex2dsh
+  - Blackman99/codsh
+  - CARVIN94/dsh-router-ext-rtk
+  - CJ-SH/dsh-plugin-web-search
+  - CJYLZS/dsh-remote-development
+  - CaiZongyuan/dsh-ag-ui
+  - Carl-5535/dsh-wechat-gateway
+  - Chaos-Hyper/dsh-econ-tools
+  - ChenYiming-aaa/dsh-github
+  - ChenYiming-aaa/dsh-ui-ux-pro-max
+  - CodermanYHZ/dsh-node-flow
+  - Crayonnan/dsh-math-modeling-skills-Gatecraft-
+  - DDDFXYqiming/dsh-layered-memory
+  - DM010727/dsh-cline
+  - Ddamage/dsh-shunshun-wallpaper
+  - Devin-AXIS/jev-dsh-decision
+  - … and 316 more
 
 - **Removed: 0**
