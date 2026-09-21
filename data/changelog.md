@@ -1,36 +1,24 @@
-# Changelog — 2026-09-20
+# Changelog — 2026-09-21
 
-- **Added: 346**
-  - 0imzero/dsh-workspace-menu
-  - 0xdenny218/stc-go
-  - 1Lyn-en/dsh-whale
-  - 23swccp/dsh-undo
-  - 240xu/dsh-websearch
-  - 6pofx/dsh-go
-  - 88514205-oss/dsh-ryoshu-slash
-  - 9087/dsh-diff-approval
-  - AAAAd-arch/nailong-harness
-  - AbcdefgXW/dsh-msg-hub
-  - AleCyriaco/deepseek-harness-desktop
-  - Angel2518975237/captain-ai
-  - Ansonfishing/dsh-cap-profile
-  - BaiZhi967/dsh-plugin-zcode-import
-  - BigBlueBaby/codex2dsh
-  - Blackman99/codsh
-  - CARVIN94/dsh-router-ext-rtk
-  - CJ-SH/dsh-plugin-web-search
-  - CJYLZS/dsh-remote-development
-  - CaiZongyuan/dsh-ag-ui
-  - Carl-5535/dsh-wechat-gateway
-  - Chaos-Hyper/dsh-econ-tools
-  - ChenYiming-aaa/dsh-github
-  - ChenYiming-aaa/dsh-ui-ux-pro-max
-  - CodermanYHZ/dsh-node-flow
-  - Crayonnan/dsh-math-modeling-skills-Gatecraft-
-  - DDDFXYqiming/dsh-layered-memory
-  - DM010727/dsh-cline
-  - Ddamage/dsh-shunshun-wallpaper
-  - Devin-AXIS/jev-dsh-decision
-  - … and 316 more
+- **Added: 19**
+  - 1549227183gong-stack/dsh-plugins
+  - 18477514055/DSH-Plugin-Hub
+  - AphyTOT/dsh-plugin-preflight
+  - Fanch-hui/codex-bridge
+  - KratosLee-6/dsh-plugin-spark
+  - Noah3021/dsh-plugin-auto-vision
+  - PerryLink/dsh-plugin-portal
+  - Pixdane/dsh-plugins
+  - VDERR/echocat-skill-panel
+  - cholf5/dsh-plugin-job-panel
+  - huangziyuan-general/dsh-novel-forge
+  - klarkxy/dsh-plugins
+  - lingfengQAQ/webnovel-writer
+  - lvyangyan12q/my-dsh-plugins
+  - omdsh-dev/dsh-browser
+  - ryanh7/dsh-plugins
+  - vianvio/dsh-plugin-drop-path
+  - yyh-001/DSH-X
+  - zhaoxuejie/dsh-plugin-session-export
 
 - **Removed: 0**
