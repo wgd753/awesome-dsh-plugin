@@ -1,24 +1,24 @@
-# Changelog — 2026-09-21
+# Changelog — 2026-09-22
 
 - **Added: 19**
-  - 1549227183gong-stack/dsh-plugins
-  - 18477514055/DSH-Plugin-Hub
-  - AphyTOT/dsh-plugin-preflight
-  - Fanch-hui/codex-bridge
-  - KratosLee-6/dsh-plugin-spark
-  - Noah3021/dsh-plugin-auto-vision
-  - PerryLink/dsh-plugin-portal
-  - Pixdane/dsh-plugins
-  - VDERR/echocat-skill-panel
-  - cholf5/dsh-plugin-job-panel
-  - huangziyuan-general/dsh-novel-forge
-  - klarkxy/dsh-plugins
-  - lingfengQAQ/webnovel-writer
-  - lvyangyan12q/my-dsh-plugins
-  - omdsh-dev/dsh-browser
-  - ryanh7/dsh-plugins
-  - vianvio/dsh-plugin-drop-path
-  - yyh-001/DSH-X
-  - zhaoxuejie/dsh-plugin-session-export
+  - 1283011852/dsh-plugin-deep-paper-reading
+  - 1Panel-dev/1Panel
+  - A8Chann/dsh-pet-live2d
+  - AgentsDanceAI/AIStore
+  - Mr-remon219/search-boost
+  - Pasumao/dsh-plugin-context-trim
+  - PerryLink/jevcore
+  - XDTrees/dsh-workbuddy-xdpool
+  - buberlo/dsh-jev
+  - cholf5/dsh-plugin-file-actions
+  - cholf5/dsh-plugin-session-emoji
+  - donald-trump86/dsh-bar-macos
+  - gzsxy/dsh-plugin-skills-manager
+  - hawklithm/workbuddy2api
+  - huaweicloud/aishell-dsh-plugins
+  - kingcuty/dsh-plugin
+  - masknull/dsh-qoder-connect
+  - ningbainb/Dcode
+  - webkubor/dsh-mirror
 
 - **Removed: 0**
