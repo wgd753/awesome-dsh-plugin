@@ -1,33 +1,33 @@
 {
- "total": 6397,
- "updated": "2026-09-24T08:05:30+00:00",
+ "total": 6411,
+ "updated": "2026-09-25T08:29:49+00:00",
  "by_category": {
-  "agents": 1359,
+  "agents": 1364,
   "ui": 1702,
-  "dev": 610,
+  "dev": 612,
   "eco": 153,
-  "web": 230,
-  "sessions": 371,
-  "other": 1358,
+  "web": 232,
+  "sessions": 373,
+  "other": 1359,
   "knowledge": 123,
   "media": 117,
   "fun": 73,
-  "integrations": 98,
-  "util": 203
+  "integrations": 99,
+  "util": 204
  },
  "by_language": {
-  "TypeScript": 2216,
+  "TypeScript": 2220,
   "Go": 46,
-  "Python": 349,
-  "JavaScript": 3195,
+  "Python": 347,
+  "JavaScript": 3205,
   "Rust": 83,
   "HTML": 63,
-  "None": 235,
-  "Shell": 39,
+  "None": 236,
+  "Shell": 40,
   "Vue": 4,
   "C#": 31,
   "Kotlin": 17,
-  "PowerShell": 50,
+  "PowerShell": 51,
   "C++": 3,
   "CSS": 12,
   "Swift": 20,
@@ -47,8 +47,7 @@
   "MDX": 1,
   "Objective-C++": 1,
   "PHP": 1,
-  "Go Template": 1,
   "NSIS": 1
  },
- "tag_only": 385
+ "tag_only": 386
 }
