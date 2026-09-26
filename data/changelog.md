@@ -1,19 +1,13 @@
-# Changelog — 2026-09-25
+# Changelog — 2026-09-26
 
-- **Added: 14**
-  - 1475505/miliastra-beyond-simulator
-  - AskTheWay/dsh-jev-interceptor
-  - GooDAnDReaDY/dsh-subscriptions
-  - HorusJiang/dsh-jev-tools
-  - PerryLink/dsh-laya
-  - SHXJSH-1/dsh-plugin-guard
-  - TACONailoong/dsh-plugin-smart-config
-  - datit309/supergraph
-  - exoticknight/dsh-plugin-template
-  - masknull/dsh-workbuddy-connect
-  - refkitjs/dsh-plugin
-  - stuga-dev/dsh-plugin
-  - zouyuxuan122/dsh-our-free-model
-  - zutomayo1/dsh-plugin-account-balance
+- **Added: 8**
+  - AskTheWay/dsh-auto-memory
+  - IMHaoyan/deepseek-harness-launcher
+  - Innocent-children/TaskBelay
+  - Zou82/dsh-plugin-git-sync
+  - anywhere-labs/Agents-Anywhere
+  - sueccku/dsh-plugin-wps-office-next
+  - yangdcm/dsh-expert-team
+  - zhangxaochen/dsh-jev
 
 - **Removed: 0**
