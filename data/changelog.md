@@ -1,36 +1,15 @@
-# Changelog — 2026-09-27
+# Changelog — 2026-09-28
 
-- **Added: 767**
-  - 060625dfy/dsh-prompt-boost
-  - 0x250-t/dsh-task-estimator
-  - 0x677a/deepseek-harness-history-stack-overflow-fix
-  - 1-CellBio/dsh-okf
-  - 10086ggqq/dsh_theme_Minecraft
-  - 1052326311/dsh-plan-lattice
-  - 111222cjyq/dsh-branch-visualizer
-  - 11zld22/dsh-model-info-fill
-  - 1321928757/dsh-prompt-polish
-  - 1841220388zzzcccxxx-star/dsh-wechat
-  - 18569663yz-web/dsh-plugin-crypto-ticker
-  - 1gudao1/angelina-web-deco
-  - 1ikeMcFlurry/harness-whale-companion
-  - 233fxr-collab/dsh-mobile-push-notify
-  - 2672243194/dsh-tally
-  - 2710165659/dsh-web-plugin-explain
-  - 2877905731/dsh-think-autoexpand
-  - 314857493/dsh-vision
-  - 318197375/dsh-bottom-stats
-  - 3361805598-gif/dsh-usage-analytics
-  - 342949145/dsh-vision-bridge
-  - 37chengshan/agent-mcp
-  - 777-Zen/dsh-capability-index
-  - 905397165-dotcom/goal-work
-  - 988hj7tczd-oss/dsh-lsp-packs
-  - AATINF/dsh-lan-access
-  - AFAP/plugin-bastion-bridge-qizhi
-  - AKS1st/dock-markdown
-  - ALKAERR/dsh-pet
-  - AS17514/dsh-cc-suite
-  - … and 737 more
+- **Added: 10**
+  - Liaoyuanxinghuo/DSH-Plugin-Manager
+  - OMSociety/dsh-kimi-ppt
+  - YottaMeta/deepseek-harness
+  - aa2246740/dsh-skillhub
+  - alin-ever/dsh-plugin-autoqueue
+  - chiphoton/DeepSeek-Harness-Video-Director
+  - hikarioyama/Smart-DSH
+  - luobosibing2/deepseek-harness-jev
+  - voyager-crew/voyager
+  - zmm863-commits/dsh-agnes-studio
 
 - **Removed: 0**
