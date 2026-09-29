@@ -1,15 +1,19 @@
-# Changelog — 2026-09-28
+# Changelog — 2026-09-29
 
-- **Added: 10**
-  - Liaoyuanxinghuo/DSH-Plugin-Manager
-  - OMSociety/dsh-kimi-ppt
-  - YottaMeta/deepseek-harness
-  - aa2246740/dsh-skillhub
-  - alin-ever/dsh-plugin-autoqueue
-  - chiphoton/DeepSeek-Harness-Video-Director
-  - hikarioyama/Smart-DSH
-  - luobosibing2/deepseek-harness-jev
-  - voyager-crew/voyager
-  - zmm863-commits/dsh-agnes-studio
+- **Added: 14**
+  - 1624318455/dsh-plugin-adapter
+  - Cristallin2006/ghidra-skill-for-dsh
+  - DSH-PackForge/dsh-pack-plugin
+  - MojtabaFaraji/dsh-plugin-rtl-text
+  - RayzPub/dsh-plugin-garmin
+  - Yifffan/dsh-plugin-whale-pet
+  - cyh3436332528/dsh-plugin-session-purge
+  - hlj-dsh-plugin/dsh-opencode-session
+  - luobosibing2/dsh-jev-plugin
+  - xuanyuanzhifeng/dsh-plugin-video
+  - xut1021/dsh-plugin-host
+  - yannicksong0106/dsh-550c-boot
+  - yanwenzong1-pixel/xinlan-dsh-plugin
+  - youssefsiam38/dsh-plugins
 
 - **Removed: 0**
