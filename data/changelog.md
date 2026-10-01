@@ -1,23 +1,19 @@
-# Changelog — 2026-09-30
+# Changelog — 2026-10-01
 
-- **Added: 18**
-  - CLICGGER-TYPES/dsh-piggy
-  - DEVVE-1/dsh-plugin-session-delete
-  - FNOSP/fnos-dsh
-  - Sovero/dsh_plugins
-  - UbiStaff/dsh-plugin-peak-pricing-status
-  - YanKaFei/art-aesthetic-vault
-  - YangShen-SWE/dsh-plugin-simple-pet
-  - aa2246740/dsh-model-fusion
-  - aerovato/operator-memory
-  - dsh-wsl-workspace-maintainers/dsh-wsl-workspace
-  - harrylabsj/kiwi
-  - hherosoul/dsh-plugins-builder
-  - joeseesun/dsh-plugin-qiaomu-rss
-  - sevastopol36/dsh-plugin-ghproxy
-  - sevastopol36/dsh-plugin-scihub
-  - sknagato/dsh-plugin-fc-emulator
-  - ygzhang-lab/dsh-plugin-git-commit-push
-  - yuanzukun/dsh-plugin-cards
+- **Added: 14**
+  - 9931666/dsh-plugin-crossfire
+  - HGT158/dsh-plugin-share
+  - HaoyanZhang123/dsh-plugin-image-gen
+  - HuanLinOTO/dsh-plugin-android-use
+  - JerryLiu369/agent-web-search
+  - TH060419/gatherthread
+  - Victor-770/dsh-plugin-directory
+  - deepseek-ai/dsh-libreoffice-kit
+  - deepseek-ai/dsh-node-addon-require-builtin
+  - joeseesun/qiaomu-rss-dsh
+  - mienfong/dsh-session-mgr
+  - smellgamed3/dsh-plugin-list-sync
+  - vecnode/vncode
+  - z91772524-ai/pojia-dsh
 
 - **Removed: 0**
