@@ -1,19 +1,25 @@
-# Changelog — 2026-10-01
+# Changelog — 2026-10-02
 
-- **Added: 14**
-  - 9931666/dsh-plugin-crossfire
-  - HGT158/dsh-plugin-share
-  - HaoyanZhang123/dsh-plugin-image-gen
-  - HuanLinOTO/dsh-plugin-android-use
-  - JerryLiu369/agent-web-search
-  - TH060419/gatherthread
-  - Victor-770/dsh-plugin-directory
-  - deepseek-ai/dsh-libreoffice-kit
-  - deepseek-ai/dsh-node-addon-require-builtin
-  - joeseesun/qiaomu-rss-dsh
-  - mienfong/dsh-session-mgr
-  - smellgamed3/dsh-plugin-list-sync
-  - vecnode/vncode
-  - z91772524-ai/pojia-dsh
+- **Added: 20**
+  - DelayNooMore/dsh-plugin-session-trash
+  - IHS470/dsh-plugin-restart
+  - LiWenzhuo001/dsh-plugin-prompt-optimizer
+  - MOMOTHEBLOOD/dsh-plugin-session-delete-uni-kaby
+  - MichengAI/dsh-btw
+  - PerryLink/dsh-plugin-kit
+  - PerryLink/dsh-plugin-upgrade
+  - Seelerc/dsh-plugin-delete-archived
+  - Yiheng-guo/dsh-boot-animation-pro
+  - alaliqing/dsh-annotate
+  - breakstring/cfKanban
+  - cup113/dsh-plugin-pyrun
+  - duxingxiake3/dsh-plugin-market
+  - kenryu42/cc-safety-net
+  - mimajiushi/dsh-plugins
+  - sgzeng/pbfuzz
+  - snow-light-2/dsh-plugin-doctor
+  - wula1223/dsh-plugin-dev
+  - yumiao-dev/dsh-chat-thinking-editor
+  - zhaoxuejie/dsh-plugin-vault-memory
 
 - **Removed: 0**
