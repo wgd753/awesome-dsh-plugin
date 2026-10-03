@@ -1,25 +1,25 @@
 {
- "total": 7262,
- "updated": "2026-10-02T09:17:59+00:00",
+ "total": 7278,
+ "updated": "2026-10-03T08:49:49+00:00",
  "by_category": {
-  "agents": 1559,
-  "ui": 1925,
-  "dev": 692,
-  "eco": 160,
+  "agents": 1561,
+  "ui": 1927,
+  "dev": 694,
+  "eco": 162,
   "web": 272,
-  "sessions": 439,
-  "other": 1511,
-  "knowledge": 139,
+  "sessions": 442,
+  "other": 1515,
+  "knowledge": 140,
   "media": 132,
   "fun": 82,
   "integrations": 118,
   "util": 233
  },
  "by_language": {
-  "TypeScript": 2485,
+  "TypeScript": 2488,
   "Go": 49,
   "Python": 400,
-  "JavaScript": 3658,
+  "JavaScript": 3671,
   "Rust": 100,
   "HTML": 72,
   "None": 255,
@@ -50,5 +50,5 @@
   "NSIS": 1,
   "Gherkin": 1
  },
- "tag_only": 453
+ "tag_only": 454
 }

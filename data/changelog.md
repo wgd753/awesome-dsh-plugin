@@ -1,25 +1,21 @@
-# Changelog — 2026-10-02
+# Changelog — 2026-10-03
 
-- **Added: 20**
-  - DelayNooMore/dsh-plugin-session-trash
-  - IHS470/dsh-plugin-restart
-  - LiWenzhuo001/dsh-plugin-prompt-optimizer
-  - MOMOTHEBLOOD/dsh-plugin-session-delete-uni-kaby
-  - MichengAI/dsh-btw
-  - PerryLink/dsh-plugin-kit
-  - PerryLink/dsh-plugin-upgrade
-  - Seelerc/dsh-plugin-delete-archived
-  - Yiheng-guo/dsh-boot-animation-pro
-  - alaliqing/dsh-annotate
-  - breakstring/cfKanban
-  - cup113/dsh-plugin-pyrun
-  - duxingxiake3/dsh-plugin-market
-  - kenryu42/cc-safety-net
-  - mimajiushi/dsh-plugins
-  - sgzeng/pbfuzz
-  - snow-light-2/dsh-plugin-doctor
-  - wula1223/dsh-plugin-dev
-  - yumiao-dev/dsh-chat-thinking-editor
-  - zhaoxuejie/dsh-plugin-vault-memory
+- **Added: 16**
+  - AK-blank/dsh-plugin-offpeak-badge
+  - Big-Dao/dsh-plugin-wsl-env
+  - ChisaAlter/WhaleIsle
+  - Dalizi2026/dsh-factory-provider
+  - GanyuanRan/Autoloom
+  - Mzy123l/dsh-plugin-remote-access
+  - QIN-SMART/dsh-plugin-kit
+  - S3K926/dsh-memory-board
+  - T-Auto/dsh-std
+  - WTStarMark/dsh-plugin-mesh
+  - XSJUSTC/dsh-rewind
+  - Z8906/dsh-plugin-office-markdown
+  - chromoany/dsh-notify-me
+  - panzeyu2013/dsh-chamber
+  - rezon-aki/dsh-streamfold
+  - yinhong-zhou/jevdo
 
 - **Removed: 0**
