@@ -1,21 +1,36 @@
-# Changelog — 2026-10-03
+# Changelog — 2026-10-04
 
-- **Added: 16**
-  - AK-blank/dsh-plugin-offpeak-badge
-  - Big-Dao/dsh-plugin-wsl-env
-  - ChisaAlter/WhaleIsle
-  - Dalizi2026/dsh-factory-provider
-  - GanyuanRan/Autoloom
-  - Mzy123l/dsh-plugin-remote-access
-  - QIN-SMART/dsh-plugin-kit
-  - S3K926/dsh-memory-board
-  - T-Auto/dsh-std
-  - WTStarMark/dsh-plugin-mesh
-  - XSJUSTC/dsh-rewind
-  - Z8906/dsh-plugin-office-markdown
-  - chromoany/dsh-notify-me
-  - panzeyu2013/dsh-chamber
-  - rezon-aki/dsh-streamfold
-  - yinhong-zhou/jevdo
+- **Added: 798**
+  - 0231071/MyDSH-Orca
+  - 040822/dsh-gzip
+  - 0mn1si2i5/dsh-handoff
+  - 0xrushmoon/dsh-freeroute
+  - 1010n111/dsh-about
+  - 166767/dsh-error-audit
+  - 17861102832/fleet-os
+  - 1985899182/dsh-harness-chat-control
+  - 1HelloMan1/dsh-vision-fallback
+  - 1Vewton/dsh-edu
+  - 1x1-lab/dsh-start
+  - 263311487-ux/dsh-verify
+  - 2861292267/DSH-Official-WorkBuddy-Credit-Proxy
+  - 2bitbit/dsh-desktop
+  - 3361805598-gif/dsh-md-annotator
+  - 33moren33/dsh-box
+  - 3acloud/openair
+  - 452926826/dsh-at-skill
+  - 54shitaimzf/dsh-price-less
+  - 7A7K/DSH-Timeline-Navigator
+  - 863683348/dsh-handbook-zh
+  - 988hj7tczd-oss/dsh-invoice-tools
+  - 988hj7tczd-oss/dsh-math-olympiad
+  - AFAP/dsh-input-file-ref
+  - AI-Scarlett/DSH-Store
+  - AIMFllyYS/dsh-operating-context
+  - AK-blank/dsh-plugin-mac-notify
+  - AKS1st/dock-editor
+  - Aampidy/dsh-mcmp
+  - AaronandWork/dsh-evidence-gate
+  - … and 768 more
 
 - **Removed: 0**
