@@ -1,36 +1,15 @@
-# Changelog — 2026-10-04
+# Changelog — 2026-10-05
 
-- **Added: 798**
-  - 0231071/MyDSH-Orca
-  - 040822/dsh-gzip
-  - 0mn1si2i5/dsh-handoff
-  - 0xrushmoon/dsh-freeroute
-  - 1010n111/dsh-about
-  - 166767/dsh-error-audit
-  - 17861102832/fleet-os
-  - 1985899182/dsh-harness-chat-control
-  - 1HelloMan1/dsh-vision-fallback
-  - 1Vewton/dsh-edu
-  - 1x1-lab/dsh-start
-  - 263311487-ux/dsh-verify
-  - 2861292267/DSH-Official-WorkBuddy-Credit-Proxy
-  - 2bitbit/dsh-desktop
-  - 3361805598-gif/dsh-md-annotator
-  - 33moren33/dsh-box
-  - 3acloud/openair
-  - 452926826/dsh-at-skill
-  - 54shitaimzf/dsh-price-less
-  - 7A7K/DSH-Timeline-Navigator
-  - 863683348/dsh-handbook-zh
-  - 988hj7tczd-oss/dsh-invoice-tools
-  - 988hj7tczd-oss/dsh-math-olympiad
-  - AFAP/dsh-input-file-ref
-  - AI-Scarlett/DSH-Store
-  - AIMFllyYS/dsh-operating-context
-  - AK-blank/dsh-plugin-mac-notify
-  - AKS1st/dock-editor
-  - Aampidy/dsh-mcmp
-  - AaronandWork/dsh-evidence-gate
-  - … and 768 more
+- **Added: 10**
+  - Ebony-Vinyl/dsh-our-free-model
+  - Lzcdebear/better-dsh-session-deletetool
+  - PepperPapa/dsh-plugin-topology
+  - Winnie-0721/dsh-plugin-market
+  - ZhQkYu/dsh-plugins
+  - lokih1028/dsh-plugin-canvas-pro
+  - loubaji083-rgb/dsh-plugin-aivideo-shotkit
+  - pbwheel/dsh-workbuddy-expert
+  - qi-cluadld/dsh-plugin-tokusatsu-gunpla
+  - smj-1680/dsh-plugin-liquid-glass
 
 - **Removed: 0**
