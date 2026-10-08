@@ -1,17 +1,21 @@
-# Changelog — 2026-10-07
+# Changelog — 2026-10-08
 
-- **Added: 12**
-  - James-Yao-xj/dsh-plugin-handout
-  - Linicc/dsh-plugin-guard
-  - OliYogSothoth/dsh-plugin-session-purge
-  - Sky-lll27/DSH-chat-keeper
-  - TCOTC/dsh-plugin-default-workspace
-  - WovenJunct/dsh-plugin-power-button
-  - gosomea/dsh-godot-ai
-  - pigeon189/zcode-fox-widget
-  - spacering-net/codeg
-  - std-microblock/dsh-plugin-environments
-  - wangyin572/dsh-plugin-reverse
-  - zhaoxuejie/dsh-plugin-academic-paper
+- **Added: 16**
+  - Contexera/dsh-agent-team
+  - FeatherHunter/dsh-plugin-update
+  - HaoyanZhang123/dsh-plugin-control-your-development
+  - Loliyer520/dsh-codex-ui
+  - Sev7eEn7/sieve
+  - XHXnb123/dsh-plugin-archive-reader
+  - akeno6388/dsh-plugin-kirara-dev
+  - akeno6388/dsh-plugin-kirara-theme
+  - houzch/dsh-plugin-agentheart
+  - huliux/dsh-asr-plugin
+  - sayho-pm/dsh-locale-pack
+  - sh1robana/dsh-plugin-message-edit
+  - yangkghjh/dsh-plugin-dida365
+  - yi-yezhiqiu/dsh-prompt-market
+  - yuanzukun/dsh-plugin-hub
+  - zanedonkey/dsh-tool-12306
 
 - **Removed: 0**
