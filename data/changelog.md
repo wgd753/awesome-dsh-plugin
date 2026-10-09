@@ -1,21 +1,22 @@
-# Changelog — 2026-10-08
+# Changelog — 2026-10-09
 
-- **Added: 16**
-  - Contexera/dsh-agent-team
-  - FeatherHunter/dsh-plugin-update
-  - HaoyanZhang123/dsh-plugin-control-your-development
-  - Loliyer520/dsh-codex-ui
-  - Sev7eEn7/sieve
-  - XHXnb123/dsh-plugin-archive-reader
-  - akeno6388/dsh-plugin-kirara-dev
-  - akeno6388/dsh-plugin-kirara-theme
-  - houzch/dsh-plugin-agentheart
-  - huliux/dsh-asr-plugin
-  - sayho-pm/dsh-locale-pack
-  - sh1robana/dsh-plugin-message-edit
-  - yangkghjh/dsh-plugin-dida365
-  - yi-yezhiqiu/dsh-prompt-market
-  - yuanzukun/dsh-plugin-hub
-  - zanedonkey/dsh-tool-12306
+- **Added: 17**
+  - 1091835332-png/dsh-plugin-wuwei-floating
+  - BillCx330/dsh-plugin-notify-sounds
+  - LinuxSuRen/dsh-plugin-mcp-chat
+  - MichengAI/dsh-simplify
+  - Minglink/dsh-infinite-gen-5
+  - SOH4C4759/dsh-plugin-skill-autoroute
+  - Sev7eEn7/dsh-sieve
+  - T-Auto/dsh-ops
+  - ZAKLLL/dsh_plugins
+  - Zai-G/dsh-preset-workshop
+  - adamkhalile/luau-docs-oracle
+  - hanliang97/MatrixMedia
+  - huaizhuanghub/dsh-persona-dafeiyu
+  - shuxidemosheng/dsh-tool-todo-plus
+  - songcaiya/dsh-plugin-rmb-cost
+  - vshengbro/dsh-plugin-longmem
+  - zaofan-make/dsh-qqbot
 
 - **Removed: 0**
