@@ -1,22 +1,25 @@
-# Changelog — 2026-10-09
+# Changelog — 2026-10-10
 
-- **Added: 17**
-  - 1091835332-png/dsh-plugin-wuwei-floating
-  - BillCx330/dsh-plugin-notify-sounds
-  - LinuxSuRen/dsh-plugin-mcp-chat
-  - MichengAI/dsh-simplify
-  - Minglink/dsh-infinite-gen-5
-  - SOH4C4759/dsh-plugin-skill-autoroute
-  - Sev7eEn7/dsh-sieve
-  - T-Auto/dsh-ops
-  - ZAKLLL/dsh_plugins
-  - Zai-G/dsh-preset-workshop
-  - adamkhalile/luau-docs-oracle
-  - hanliang97/MatrixMedia
-  - huaizhuanghub/dsh-persona-dafeiyu
-  - shuxidemosheng/dsh-tool-todo-plus
-  - songcaiya/dsh-plugin-rmb-cost
-  - vshengbro/dsh-plugin-longmem
-  - zaofan-make/dsh-qqbot
+- **Added: 20**
+  - HerTa-st/Herta-dsh
+  - Ianzhyh/workbuddy-to-dsh
+  - Kanadego/dsh-heartbeat
+  - Rannichan/Tavern-Harness
+  - William2333ZZ/mywork-deepseekharness
+  - XSJUSTC/dsh-plugin-manager
+  - Yoshino-JF/dsh-deepseek-pet
+  - doublezerolv-lab/dsh-plugin-evoforge
+  - dushaobindoudou/dsh-plugin-security
+  - ffyfox/dsh-desktop-linux
+  - fnnas-labs/fnos-cli-skill
+  - happyqu/dsh-plugin-git
+  - jason2be/dsh-plugin-zen-runtime
+  - lerqian883-alt/dsh-plugin-ml-phase-gate
+  - tuojc/dsh-browser-firefox
+  - woxihejinghao/pi-web
+  - xcisxc29/dsh-wechat
+  - xwclr/dsh-plugin-skill-manager
+  - xwclr/dsh-plugin-workspace-colors
+  - yuchenlogin/noname-dsh-plugin
 
 - **Removed: 0**
